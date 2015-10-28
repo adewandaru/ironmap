@@ -1,0 +1,245 @@
+<nodes>
+  <config>
+    <layouter>radial</layouter>
+  </config>
+  <node>
+    <id>1</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>359148ca-debb-4f52-8b77-35e0bffe9dcb,7e7e6e2d-41ab-486d-8fa8-5c21df0a51a9,22ebfe4b-1716-40f6-9c15-bd3a9d8fcf1b,dee9ecf1-b073-472e-9663-07159db44ea3,2a4c78ec-b991-41aa-9dca-9048cd0bcf9a</children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <dimension>0.0007381437:0.002079467:0:1</dimension>
+  </node>
+  <node>
+    <id>359148ca-debb-4f52-8b77-35e0bffe9dcb</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>Tap to create attribute,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>f1ae0d4a-939f-4235-b80f-0e9e2f95edd1</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>cen</type>
+    <state>open</state>
+    <attributes>Tap to create attribute,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <dimension>-2.062699:35.93216:-0.05000001:1</dimension>
+  </node>
+  <node>
+    <id>68ebc162-7d85-42c6-bb2a-8fc79317c18e</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>Tap to create attribute,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <dimension>-2.169341:55.94077:-0.04999999:1</dimension>
+  </node>
+  <node>
+    <id>eb9bf426-c4cb-4be8-8d08-47302487a06c</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>Tap to create attribute,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(22.5, -0.7)</handlepos>
+    <dimension>-10.48949:67.74249:-0.05:1</dimension>
+  </node>
+  <node>
+    <id>7e7e6e2d-41ab-486d-8fa8-5c21df0a51a9</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>0a0d56d8-06dd-44f4-a836-5134cef573f0,03c80686-6b60-48bb-890e-cf22c70cc765,47cc84c1-136f-42de-b040-77a0d2c93ed9,e5afc61b-5365-457f-ac42-47484ce60999,90633ab4-cf7d-49fd-afe5-0209b4e1791a,dc5ffb26-61cb-4cc1-8476-592026ff60ad,24d78ef9-0425-46ac-9d8a-f910e2897c46,d07b501f-816d-424d-8d96-b94b3349e968</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>22ebfe4b-1716-40f6-9c15-bd3a9d8fcf1b</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>dee9ecf1-b073-472e-9663-07159db44ea3</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(8.3, 0.6)</handlepos>
+  </node>
+  <node>
+    <id>2a4c78ec-b991-41aa-9dca-9048cd0bcf9a</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>0a0d56d8-06dd-44f4-a836-5134cef573f0</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>03c80686-6b60-48bb-890e-cf22c70cc765</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(4.4, -1.1)</handlepos>
+  </node>
+  <node>
+    <id>47cc84c1-136f-42de-b040-77a0d2c93ed9</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>e5afc61b-5365-457f-ac42-47484ce60999</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>90633ab4-cf7d-49fd-afe5-0209b4e1791a</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>dc5ffb26-61cb-4cc1-8476-592026ff60ad</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>24d78ef9-0425-46ac-9d8a-f910e2897c46</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>d07b501f-816d-424d-8d96-b94b3349e968</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+</nodes>

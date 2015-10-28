@@ -1,0 +1,16 @@
+INSERT INTO users VALUES(1,'Unlicensed','null',1,'2014-09-12 07:58:54.309883');
+INSERT INTO users VALUES(2,'user2@gmail.com','d_a2XDskNoEsZNRULz1e3g==',1,'2014-09-12 07:58:54.312550');
+INSERT INTO users VALUES(3,'user3@gmail.com','qhtEn_Szvzq40f1L9VfYOw==',0,'2014-09-12 07:58:54.312658');
+INSERT INTO users VALUES(4,'dewandaru@gmail.com','b_81ywyCPw7qFioiWBOdy7ONUONUdnxeFhMDY0ObDxU=',1,'2014-09-12 08:22:28.231953');
+INSERT INTO users VALUES(5,'dewandaru@gmail.com','b_81ywyCPw7qFioiWBOdy037IN-x9OymrVGvr4Hm0Pg=',1,'2014-09-12 08:31:10.566132');
+INSERT INTO users VALUES(6,'dewandaru@gmail.com','b_81ywyCPw7qFioiWBOdy73Qco-bnXsKzGTh2XD51EQ=',1,'2014-09-12 08:33:47.848973');
+INSERT INTO users VALUES(7,'dewandaru@gmail.com','b_81ywyCPw7qFioiWBOdy2z7Dg7tHytipN_McjoK_n8=',1,'2014-09-12 08:34:08.883241');
+INSERT INTO users VALUES(8,'dewandaru@gmail.com','b_81ywyCPw7qFioiWBOdy4HjJqEZlxeDgGehuXMesho=',1,'2014-09-12 08:37:39.590660');
+INSERT INTO users VALUES(9,'dewandaru@gmail.com','b_81ywyCPw7qFioiWBOdy9eFLixVGDJ8UIgQxU9_m2Y=',1,'2014-09-12 21:01:01.013637');
+INSERT INTO users VALUES(10,'kuntzman@gmail.com','TjYgeNKBlO48dM0b50cGgLtYUbhJ3xLjL6vq97NJPufsgrFRuK4e6FsG3dksEmPw',1,'2014-09-14 02:06:52.236639');
+INSERT INTO users VALUES(11,'adewandaru@gmail.com','WmCqMFfb0jmnw1xcsb0msyPRzZUp6P5LulxWzujgsW8=',1,'2014-09-14 02:11:44.108221');
+INSERT INTO users VALUES(12,'kuntzman@gmail.com','TjYgeNKBlO48dM0b50cGgPnXeF8kNn-ssXaDo9P4RGn87DrgMLrxuba_6DaB39mQ',1,'2014-09-14 02:12:37.461230');
+INSERT INTO users VALUES(13,'adewandaru@gmail.com','WmCqMFfb0jmnw1xcsb0ms0rDHvHtISME8HcfZG-HcAMOTHTDg_kiiHLeGvv_UDBW',1,'2014-09-14 02:25:28.792758');
+INSERT INTO users VALUES(14,'adewandaru@gmail.com','WmCqMFfb0jmnw1xcsb0ms-SZYRf-95dUeOOE1V1eO5k=',1,'2014-09-14 18:15:38.819249');
+INSERT INTO users VALUES(15,'','ejtTQP-ZSa2Ddm8v6CIjlg==',1,'2014-09-15 03:32:14.219630');
+INSERT INTO users VALUES(16,'anilsubarda@gmail.com','CuYghTL2rx_SnQgxthPPYviVkxB-9veSE_F0dilyH8MO_e1D-rhMCc7UOWayZHAD',1,'2014-09-15 06:33:58.809846');

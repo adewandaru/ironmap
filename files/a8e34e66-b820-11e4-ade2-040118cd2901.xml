@@ -1,0 +1,73 @@
+<nodes>
+  <config>
+    <layouter>flow</layouter>
+  </config>
+  <node>
+    <id>1</id>
+    <title>AsandA 2015</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>e2c3637d-5f6d-4750-b549-53fcc49c5c8c,55ebc04a-ca92-4a6c-b4a0-e71077c4f88f,8426235a-d29f-4a92-ab08-6fc355b02d2e</children>
+    <color>0.572549:0.8313726:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>AsandA 2015</value>
+    <dimension>53.92889:-70.30472:0:1</dimension>
+  </node>
+  <node>
+    <id>8426235a-d29f-4a92-ab08-6fc355b02d2e</id>
+    <title>AndroMovie</title>
+    <pic>
+    </pic>
+    <type>dot</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0.572549:0.8313726:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>True</preserve>
+    <value>AndroMovie</value>
+  </node>
+  <node>
+    <id>e2c3637d-5f6d-4750-b549-53fcc49c5c8c</id>
+    <title>AsandA.net</title>
+    <pic>
+    </pic>
+    <type>dot</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0.572549:0.8313726:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>AsandA.net</value>
+  </node>
+  <node>
+    <id>55ebc04a-ca92-4a6c-b4a0-e71077c4f88f</id>
+    <title>AGTC 2015</title>
+    <pic>
+    </pic>
+    <type>dot</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0.572549:0.8313726:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>True</preserve>
+    <value>AGTC 2015</value>
+  </node>
+</nodes>

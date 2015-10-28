@@ -1,0 +1,23 @@
+<nodes>
+  <config>
+    <layouter>flow</layouter>
+  </config>
+  <node>
+    <id>1</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>New Title</value>
+    <dimension>0:0:0:1</dimension>
+  </node>
+</nodes>

@@ -1,0 +1,1081 @@
+<nodes>
+  <config>
+    <layouter>flow</layouter>
+  </config>
+  <node>
+    <id>1</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>b7c7e1a6-6a3d-40d5-8c45-7159fa6646d2,e4ca6ac5-0001-4e08-9f12-4ddff095e690,74ad4e87-ba2a-4303-a2af-d46f8fd8d29b,5278d5d8-211c-404c-97e2-d8f37728f53e,1da492d8-c730-4a8c-b39c-f47151c57b8b</children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>New Title</value>
+    <dimension>16.03765:-127.78:0:1</dimension>
+  </node>
+  <node>
+    <id>b7c7e1a6-6a3d-40d5-8c45-7159fa6646d2</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>b2621aa9-ce0f-411d-90bc-f5518c86f2ee,7099c247-c238-40ce-9c3f-e82a55c49f48</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>e4ca6ac5-0001-4e08-9f12-4ddff095e690</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>kampung melayu</description>
+    <children>7a89b31c-c0ea-439c-bca1-b50a16ef3c15,bda093e1-4f98-490a-81bb-00eed88639ac,cf304bff-7c70-43a3-8f28-5c6a5236ad3d</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>kampung melayu</value>
+  </node>
+  <node>
+    <id>74ad4e87-ba2a-4303-a2af-d46f8fd8d29b</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>5278d5d8-211c-404c-97e2-d8f37728f53e</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>7a89b31c-c0ea-439c-bca1-b50a16ef3c15</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>bda093e1-4f98-490a-81bb-00eed88639ac</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>9ac4b1fe-c819-495f-ab7d-235fe2b35dbf,097b571a-fbd5-418d-bfd0-a43f5beae9f0,27515b46-32a2-4d15-9af9-8cac9e34f157,29368fef-d07b-4188-9cb1-f3b3ea51f79f,22dcb277-9670-4e3a-9722-0ed975b1394f</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>cf304bff-7c70-43a3-8f28-5c6a5236ad3d</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>9ac4b1fe-c819-495f-ab7d-235fe2b35dbf</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0.5333334:0.8078431:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>097b571a-fbd5-418d-bfd0-a43f5beae9f0</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0.5333334:0.8078431:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>27515b46-32a2-4d15-9af9-8cac9e34f157</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>basah semua</description>
+    <children>87a020dd-71d0-4da0-892a-225724c94477,40e278f1-270d-4d18-9b75-ab3810dca165</children>
+    <color>0:0.5333334:0.8078431:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>basah semua</value>
+  </node>
+  <node>
+    <id>29368fef-d07b-4188-9cb1-f3b3ea51f79f</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>2d221b9a-4307-4650-9d93-98d36bdafd7f,0c240e12-1a72-4db6-b406-8399a628abff,280fa3f5-d72b-4818-aa70-f72100836b74,00b4325e-99a0-433b-8cd3-1364c25240ab</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>22dcb277-9670-4e3a-9722-0ed975b1394f</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>87a020dd-71d0-4da0-892a-225724c94477</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>40e278f1-270d-4d18-9b75-ab3810dca165</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>[[[[pojjjjjiihhhjnbbjilkkjjjhghjj</description>
+    <children>aa0072c1-f9bb-47a5-9d52-648757a0c155,6f48663a-652a-489a-a854-0a5d54963b7c</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>[[[[pojjjjjiihhhjnbbjilkkjjjhghjj</value>
+  </node>
+  <node>
+    <id>aa0072c1-f9bb-47a5-9d52-648757a0c155</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>89367c18-7f2b-49e0-a337-89e986b30f85</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>6f48663a-652a-489a-a854-0a5d54963b7c</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>89367c18-7f2b-49e0-a337-89e986b30f85</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>2083e8ff-cf7c-4ad4-87c9-65ab8aed0a73</id>
+    <title>Phuket Province</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>Tap to create attribute,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Phuket (Thai: ภูเก็ต, pronounced [pʰūː.kèt]), formerly known as Thalang (ถลาง Tha-Laang) and, in Western sources and navigation charts, Jung Ceylon (a corruption of the Malay Tanjung Salang, i.e. "Cape Salang"), is one of the southern provinces (changwat) of Thailand. Neighbouring provinces are (from north clockwise) Phang Nga and Krabi, but as Phuket is an island it has no land boundaries.
+Phuket, which is somewhat smaller than the size of Singapore, is Thailand’s largest island. The island is connected to mainland Thailand by two bridges. It is situated off the west coast of Thailand in the Andaman Sea. Phuket formerly derived its wealth from tin and rubber, and enjoys a rich and colorful history. The island was on one of the major trading routes between India and China, and was frequently mentioned in foreign ship logs of Portuguese, French, Dutch and English traders. The region now derives much of its income from tourism.</description>
+    <children>f75e9e45-0e33-43f5-9799-0ee6cf396572,0c2f68d4-5808-45e2-b1a6-01545db369cc,301cfc81-1af9-4f14-a827-b462e8e202b7,719c8a8c-8a41-4cdc-bb39-67378e9d0715,b53ef321-6bc4-4509-89b1-f715aa7615bf,b3057afb-93de-444d-99d6-dda01e68c62c,1b61f1e0-df55-4e36-922b-8e23935c91f8,623fd9b6-38f1-4f6d-b3b1-465f010d057b,c98ac8a0-8cab-407e-90c2-a6c48f4ec866,fdf27495-3a2f-4856-83bb-ccb45eaa8d92,4348f57b-73ed-4f3e-aa1c-22423be1518b,a77e2857-c38b-425f-8244-fc874dcb8ef2,e67115b1-7e94-4cd1-97de-f1143919409d,f917c069-66d3-47aa-bdd2-3bca09c91181</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Phuket (Thai: ภูเก็ต, pronounced [pʰūː.kèt]), formerly known as Thalang (ถลาง Tha-Laang) and, in Western sources and navigation charts, Jung Ceylon (a corruption of the Malay Tanjung Salang, i.e. "Cape Salang"), is one of the southern provinces (changwat) of Thailand. Neighbouring provinces are (from north clockwise) Phang Nga and Krabi, but as Phuket is an island it has no land boundaries.
+Phuket, which is somewhat smaller than the size of Singapore, is Thailand’s largest island. The island is connected to mainland Thailand by two bridges. It is situated off the west coast of Thailand in the Andaman Sea. Phuket formerly derived its wealth from tin and rubber, and enjoys a rich and colorful history. The island was on one of the major trading routes between India and China, and was frequently mentioned in foreign ship logs of Portuguese, French, Dutch and English traders. The region now derives much of its income from tourism.</value>
+    <dimension>-44.44085:13.54154:-0.05024415:1</dimension>
+  </node>
+  <node>
+    <id>f75e9e45-0e33-43f5-9799-0ee6cf396572</id>
+    <title>Name</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>The relatively recent name "Phuket" (of which the digraph ph represents an aspirated p) is apparently derived from the word bukit (Jawi: بوكيت) in Malay which means "hill", as this is what the island appears like from a distance. An alternative suggestion is that the name originates from two Thai words, phu (mountain) of ket (jewel), and this is said to be recorded in a Thai chronicle.
+The region was formerly referred to as "Thalang," (ถลาง) derived from the old Malay "Telong" (Jawi: تلوڠ) which means "Cape". The northern district of the province, which was the location of the old capital, still uses this name.
+The island of Phuket was originally named Jung Ceylon on European navigation charts, a corruption of the Malay Tanjung Salang meaning Cape Salang. One of the main shopping malls in the town of Patong in Phuket is accordingly thus named.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>The relatively recent name "Phuket" (of which the digraph ph represents an aspirated p) is apparently derived from the word bukit (Jawi: بوكيت) in Malay which means "hill", as this is what the island appears like from a distance. An alternative suggestion is that the name originates from two Thai words, phu (mountain) of ket (jewel), and this is said to be recorded in a Thai chronicle.
+The region was formerly referred to as "Thalang," (ถลาง) derived from the old Malay "Telong" (Jawi: تلوڠ) which means "Cape". The northern district of the province, which was the location of the old capital, still uses this name.
+The island of Phuket was originally named Jung Ceylon on European navigation charts, a corruption of the Malay Tanjung Salang meaning Cape Salang. One of the main shopping malls in the town of Patong in Phuket is accordingly thus named.</value>
+  </node>
+  <node>
+    <id>0c2f68d4-5808-45e2-b1a6-01545db369cc</id>
+    <title>The meaning of symbol of Phuket</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>The symbol began being used in 1985 AD. The symbol is a picture of Thao thep kasatri and Thao sri sunthon Heroines Monument. The reason for the use of the pictures of these heroines is because they protected the province from the Burmese in 1785 AD. In 1785 Burmese troops were preparing to attack Phuket because the military governor had just died so the island could be easily seized. But Khun Jan who was the widow of the deceased governor and her sister Khun Mook ordered the women to dress as men and take positions on the Thalang city walls. The Burmese were afraid to attack Phuket because they thought that Phuket had many troops. Finally the Burmese retreated due to starvation. The two women became local heroines. They received the honorary titles, Thao Thep Kasatri and Thao Sri sunthon from King Rama I. The shape of the symbol is a circle and the circle is surrounded by ka – nok line that shows the bravery of leaders in Phuket province.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>The symbol began being used in 1985 AD. The symbol is a picture of Thao thep kasatri and Thao sri sunthon Heroines Monument. The reason for the use of the pictures of these heroines is because they protected the province from the Burmese in 1785 AD. In 1785 Burmese troops were preparing to attack Phuket because the military governor had just died so the island could be easily seized. But Khun Jan who was the widow of the deceased governor and her sister Khun Mook ordered the women to dress as men and take positions on the Thalang city walls. The Burmese were afraid to attack Phuket because they thought that Phuket had many troops. Finally the Burmese retreated due to starvation. The two women became local heroines. They received the honorary titles, Thao Thep Kasatri and Thao Sri sunthon from King Rama I. The shape of the symbol is a circle and the circle is surrounded by ka – nok line that shows the bravery of leaders in Phuket province.</value>
+  </node>
+  <node>
+    <id>301cfc81-1af9-4f14-a827-b462e8e202b7</id>
+    <title>History</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>In the 17th century, the Dutch, English and, after the 1680s, the French, competed for the opportunity to trade with the island of Phuket (then known as Junkseilon), which was a very rich source of tin. In September 1680, a ship of the French East India Company visited Phuket and left with a full cargo of tin. A year or two later, the Siamese King Narai, seeking to reduce Dutch and English influence, named as governor of Phuket a French medical missionary, Brother René Charbonneau, a member of the Siam mission of the Société des Missions Etrangères. Charbonneau remained as governor until 1685.
+In 1685, King Narai confirmed the French tin monopoly in Phuket to their ambassador, the Chevalier de Chaumont. Chaumont's former maître d'hôtel, Sieur de Billy, was named governor of the island. However, the French were expelled from Siam after the 1688 Siamese revolution. On April 10, 1689, Desfarges led an expedition to re-capture Phuket to restore some French control in Siam. His occupation of the island led to nothing, and Desfarges returned to Puducherry in January 1690.
+The Burmese attacked Phuket in 1785. Francis Light, a British East India Company captain passing by the island, notified the local administration that he had observed Burmese forces preparing to attack. Than Phu Ying Chan, the wife of the recently deceased governor, and her sister Mook (คุณมุก) assembled what local forces they could. After a month-long siege of the capital city, the Burmese were forced to retreat March 13, 1785. The women became local heroines, receiving the royal titles Thao Thep Kasattri and Thao Si Sunthon from a grateful King Rama I. During the reign of King Chulalongkorn (Rama V), Phuket became the administrative center of the tin-producing southern provinces. In 1933 Monthon Phuket (มณฑลภูเก็ต) was dissolved and Phuket became a province by itself. Old names of the island include Ko Thalang (เกาะถลาง.)</description>
+    <children>385d0ead-001b-4eba-8f85-a35189aad76f</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>In the 17th century, the Dutch, English and, after the 1680s, the French, competed for the opportunity to trade with the island of Phuket (then known as Junkseilon), which was a very rich source of tin. In September 1680, a ship of the French East India Company visited Phuket and left with a full cargo of tin. A year or two later, the Siamese King Narai, seeking to reduce Dutch and English influence, named as governor of Phuket a French medical missionary, Brother René Charbonneau, a member of the Siam mission of the Société des Missions Etrangères. Charbonneau remained as governor until 1685.
+In 1685, King Narai confirmed the French tin monopoly in Phuket to their ambassador, the Chevalier de Chaumont. Chaumont's former maître d'hôtel, Sieur de Billy, was named governor of the island. However, the French were expelled from Siam after the 1688 Siamese revolution. On April 10, 1689, Desfarges led an expedition to re-capture Phuket to restore some French control in Siam. His occupation of the island led to nothing, and Desfarges returned to Puducherry in January 1690.
+The Burmese attacked Phuket in 1785. Francis Light, a British East India Company captain passing by the island, notified the local administration that he had observed Burmese forces preparing to attack. Than Phu Ying Chan, the wife of the recently deceased governor, and her sister Mook (คุณมุก) assembled what local forces they could. After a month-long siege of the capital city, the Burmese were forced to retreat March 13, 1785. The women became local heroines, receiving the royal titles Thao Thep Kasattri and Thao Si Sunthon from a grateful King Rama I. During the reign of King Chulalongkorn (Rama V), Phuket became the administrative center of the tin-producing southern provinces. In 1933 Monthon Phuket (มณฑลภูเก็ต) was dissolved and Phuket became a province by itself. Old names of the island include Ko Thalang (เกาะถลาง.)</value>
+  </node>
+  <node>
+    <id>385d0ead-001b-4eba-8f85-a35189aad76f</id>
+    <title>2004 Tsunami</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>On December 26, 2004, Phuket and other nearby areas on Thailand's western coast suffered extensive damage when they were struck by the Boxing Day tsunami, caused by the 2004 Indian Ocean earthquake. The waves destroyed several highly populated areas in the region, killing up to 5,300 people nationwide, and tens of thousands more throughout the Asian region. Some 250 were reported dead in Phuket, including foreign tourists, and as many perhaps as a thousand of the illegal Burmese workers building new beach resorts in the Khao Lak area. Almost all of the major beaches on the west coast, especially Kamala, Patong, Karon and Kata, sustained major damage, with some damage caused to resorts and villages on the island's southern beaches.
+By February 2005 many damaged resorts were back to business, and life slowly returned to normal. Following strenuous recovery programs, no tsunami damage can now be seen except in the most remote beaches.
+In early December 2006, Thailand launched the first of the 22 U.S.-made tsunami-detection buoys to be positioned around the Indian Ocean as part of a regional warning system. The satellite-linked deep-sea buoy floats 1,000 km (620 mi) offshore, roughly midway between Thailand and Sri Lanka.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>On December 26, 2004, Phuket and other nearby areas on Thailand's western coast suffered extensive damage when they were struck by the Boxing Day tsunami, caused by the 2004 Indian Ocean earthquake. The waves destroyed several highly populated areas in the region, killing up to 5,300 people nationwide, and tens of thousands more throughout the Asian region. Some 250 were reported dead in Phuket, including foreign tourists, and as many perhaps as a thousand of the illegal Burmese workers building new beach resorts in the Khao Lak area. Almost all of the major beaches on the west coast, especially Kamala, Patong, Karon and Kata, sustained major damage, with some damage caused to resorts and villages on the island's southern beaches.
+By February 2005 many damaged resorts were back to business, and life slowly returned to normal. Following strenuous recovery programs, no tsunami damage can now be seen except in the most remote beaches.
+In early December 2006, Thailand launched the first of the 22 U.S.-made tsunami-detection buoys to be positioned around the Indian Ocean as part of a regional warning system. The satellite-linked deep-sea buoy floats 1,000 km (620 mi) offshore, roughly midway between Thailand and Sri Lanka.</value>
+  </node>
+  <node>
+    <id>719c8a8c-8a41-4cdc-bb39-67378e9d0715</id>
+    <title>Geography</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Phuket is the biggest island in Thailand, located in the Andaman Sea of southern Thailand. The island is mostly mountainous with a mountain range in the west of the island from the north to the south. The mountains of Phuket form the southern end of the Phuket mountain range, which ranges for 440 kilometres (270 mi) from the Kra Isthmus. Although some recent geographical works refer to the sections of the Tenasserim Hills in the isthmus as the "Phuket Range", these names are not found, however, in classical geographic sources. In addition, the name Phuket is relatively recent having previously been named Jung Ceylon and Thalang. The highest elevation of the island is usually regarded as Khao Mai Thao Sip Song (Twelve Canes), at 529 metres (1,736 ft) above sea level. However it has been reported by barometric pressure readings that there is an even higher elevation (with no apparent name), of 542 meters above sea level, in the Kamala hills behind Kathu waterfall. Its population was 249,446 in 2000, rising to 525,018 in the 2010 decennial census, the highest growth rate of all provinces nationwide at 7.4% annual, some 600,000 people reside in Phuket currently, among them migrants, international expats, Thais registered in other provinces and locals. The registered population, however, includes only Thais, and the end of 2012 was 360,905 people.
+It is estimated that Phuket has a total area of approximately 576 square kilometres (222 sq mi) (including the province's other islands). Phuket is approximately 536 miles (863 km) south of Bangkok, and covers an area of 543 square kilometres (210 sq mi) excluding small islets. Other Islands are : Ko Lone 4.77 square kilometres (1.84 sq mi), Ko Maprao 3.7 square kilometres (1.4 sq mi), Ko Naka Yai 2.08 square kilometres (0.80 sq mi), Ko Racha Noi3.06 square kilometres (1.18 sq mi), Ko Racha Yai 4.5 square kilometres (1.7 sq mi), and the second biggest, Ko Sire 8.8 square kilometres (3.4 sq mi) (It is also the 2nd most popolated in Mu Ko Phuket.
+It is estimated that if all its 39 other small islands are included, Phuket Province will cover an area of 576 square kilometres (222 sq mi). The island total length, from north to south, is estimated at 30 miles (48 km) and 13 miles (21 km) wide.
+Phuket's topography is exceptional with 70 percent of its area covered with mountains which stretch from north to south and the remaining 30 percent being plains located in the central and eastern parts of the island. It has a total of 9 brooks and creeks but does not have any major rivers.
+Forest, rubber and palm oil plantations cover 60% of the island. The western coast has several sandy beaches, while on the east coast beaches are more often muddy. Near the southernmost point is Laem Promthep (Brahma's Cape), which is a popular sunset viewing point. In the mountainous north of the island is the Khao Phra Thaeo Non-hunting Area, protecting more than 20 km² of rainforest. The three highest peaks of this reserve are the Khao Prathiu (384 metres (1,260 ft)), Khao Bang Pae 388 metres (1,273 ft) and Khao Phara 422 metres (1,385 ft). The Sirinat National Park on the northwestern coast was established in 1981 and protects an area of 90 square kilometres (35 sq mi) (68 kilometres (42 mi) marine area), including the Nai Yang beach where sea turtles lay their eggs.
+One of the most popular (and overcrowded) tourist areas on Phuket is Patong Beach on the central western coast, perhaps owing to the easy access to its wide and long beach. Most of Phuket's nightlife and its cheap shopping is located in Patong, and the area has become increasingly developed. Patong means "the forest filled with banana leaves" in Thai. Other popular beaches are located south of Patong. In a counterclockwise direction these include Karon Beach, Kata Beach, Kata Noi Beach, and around the southern tip of the island, Nai Harn Beach and Rawai. To the north of Patong are Kamala Beach, Surin Beach and Bang Tao Beach. These areas are generally much less developed than Patong, and sought out by individuals, families and other groups with a preference for more relaxed and less crowded environs than Patong. There are many islands to the southeast, including Bon Island, just a short boat trip away. There are several coral islands to the south of Phuket, the Similan Islands lie to the north west, and Phi Phi Islands to the south east. Islanders engage in a lively tourist trade, catering to snorkellers and scuba divers.</description>
+    <children>8f961a1a-b3cf-4b90-b0f8-f8d6b5d2d232</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Phuket is the biggest island in Thailand, located in the Andaman Sea of southern Thailand. The island is mostly mountainous with a mountain range in the west of the island from the north to the south. The mountains of Phuket form the southern end of the Phuket mountain range, which ranges for 440 kilometres (270 mi) from the Kra Isthmus. Although some recent geographical works refer to the sections of the Tenasserim Hills in the isthmus as the "Phuket Range", these names are not found, however, in classical geographic sources. In addition, the name Phuket is relatively recent having previously been named Jung Ceylon and Thalang. The highest elevation of the island is usually regarded as Khao Mai Thao Sip Song (Twelve Canes), at 529 metres (1,736 ft) above sea level. However it has been reported by barometric pressure readings that there is an even higher elevation (with no apparent name), of 542 meters above sea level, in the Kamala hills behind Kathu waterfall. Its population was 249,446 in 2000, rising to 525,018 in the 2010 decennial census, the highest growth rate of all provinces nationwide at 7.4% annual, some 600,000 people reside in Phuket currently, among them migrants, international expats, Thais registered in other provinces and locals. The registered population, however, includes only Thais, and the end of 2012 was 360,905 people.
+It is estimated that Phuket has a total area of approximately 576 square kilometres (222 sq mi) (including the province's other islands). Phuket is approximately 536 miles (863 km) south of Bangkok, and covers an area of 543 square kilometres (210 sq mi) excluding small islets. Other Islands are : Ko Lone 4.77 square kilometres (1.84 sq mi), Ko Maprao 3.7 square kilometres (1.4 sq mi), Ko Naka Yai 2.08 square kilometres (0.80 sq mi), Ko Racha Noi3.06 square kilometres (1.18 sq mi), Ko Racha Yai 4.5 square kilometres (1.7 sq mi), and the second biggest, Ko Sire 8.8 square kilometres (3.4 sq mi) (It is also the 2nd most popolated in Mu Ko Phuket.
+It is estimated that if all its 39 other small islands are included, Phuket Province will cover an area of 576 square kilometres (222 sq mi). The island total length, from north to south, is estimated at 30 miles (48 km) and 13 miles (21 km) wide.
+Phuket's topography is exceptional with 70 percent of its area covered with mountains which stretch from north to south and the remaining 30 percent being plains located in the central and eastern parts of the island. It has a total of 9 brooks and creeks but does not have any major rivers.
+Forest, rubber and palm oil plantations cover 60% of the island. The western coast has several sandy beaches, while on the east coast beaches are more often muddy. Near the southernmost point is Laem Promthep (Brahma's Cape), which is a popular sunset viewing point. In the mountainous north of the island is the Khao Phra Thaeo Non-hunting Area, protecting more than 20 km² of rainforest. The three highest peaks of this reserve are the Khao Prathiu (384 metres (1,260 ft)), Khao Bang Pae 388 metres (1,273 ft) and Khao Phara 422 metres (1,385 ft). The Sirinat National Park on the northwestern coast was established in 1981 and protects an area of 90 square kilometres (35 sq mi) (68 kilometres (42 mi) marine area), including the Nai Yang beach where sea turtles lay their eggs.
+One of the most popular (and overcrowded) tourist areas on Phuket is Patong Beach on the central western coast, perhaps owing to the easy access to its wide and long beach. Most of Phuket's nightlife and its cheap shopping is located in Patong, and the area has become increasingly developed. Patong means "the forest filled with banana leaves" in Thai. Other popular beaches are located south of Patong. In a counterclockwise direction these include Karon Beach, Kata Beach, Kata Noi Beach, and around the southern tip of the island, Nai Harn Beach and Rawai. To the north of Patong are Kamala Beach, Surin Beach and Bang Tao Beach. These areas are generally much less developed than Patong, and sought out by individuals, families and other groups with a preference for more relaxed and less crowded environs than Patong. There are many islands to the southeast, including Bon Island, just a short boat trip away. There are several coral islands to the south of Phuket, the Similan Islands lie to the north west, and Phi Phi Islands to the south east. Islanders engage in a lively tourist trade, catering to snorkellers and scuba divers.</value>
+  </node>
+  <node>
+    <id>8f961a1a-b3cf-4b90-b0f8-f8d6b5d2d232</id>
+    <title>Administrative divisions</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Phuket is divided into three districts (Amphoe), which are further subdivided into 17 subdistricts (tambon) and 103 villages (muban).
+Mueang Phuket
+Kathu
+Thalang
+There are nine municipal (thesaban) areas within the province. The capital Phuket has city (thesaban nakhon) status, and the main touristical town Patong as well as Kathu has town (thesaban mueang) status. There are further six subdistrict municipalities (thesaban tambon)—Karon, Thep Krasattri, Choeng Thale, Ratsada, Rawai and Wichit. The non-municipal areas are administrated by nine tambon administrative organizations (TAO).</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Phuket is divided into three districts (Amphoe), which are further subdivided into 17 subdistricts (tambon) and 103 villages (muban).
+Mueang Phuket
+Kathu
+Thalang
+There are nine municipal (thesaban) areas within the province. The capital Phuket has city (thesaban nakhon) status, and the main touristical town Patong as well as Kathu has town (thesaban mueang) status. There are further six subdistrict municipalities (thesaban tambon)—Karon, Thep Krasattri, Choeng Thale, Ratsada, Rawai and Wichit. The non-municipal areas are administrated by nine tambon administrative organizations (TAO).</value>
+  </node>
+  <node>
+    <id>b53ef321-6bc4-4509-89b1-f715aa7615bf</id>
+    <title>Climate</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Under the Köppen climate classification, Phuket features a tropical monsoon climate. Due to its proximity to the equator, in the course of the year, there is little variation in temperatures. The city has an average annual high of 32 °C (90 °F) and an annual low of 25 °C (77 °F). Phuket has a dry season that runs from December through March and a wet season that covers the other eight months. However, like many cities that feature a tropical monsoon climate, Phuket sees some precipitation even during its dry season. Phuket averages roughly 2,200 millimetres (87 in) of rain.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Under the Köppen climate classification, Phuket features a tropical monsoon climate. Due to its proximity to the equator, in the course of the year, there is little variation in temperatures. The city has an average annual high of 32 °C (90 °F) and an annual low of 25 °C (77 °F). Phuket has a dry season that runs from December through March and a wet season that covers the other eight months. However, like many cities that feature a tropical monsoon climate, Phuket sees some precipitation even during its dry season. Phuket averages roughly 2,200 millimetres (87 in) of rain.</value>
+  </node>
+  <node>
+    <id>b3057afb-93de-444d-99d6-dda01e68c62c</id>
+    <title>Economy</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Tin mining was a major source of income for the island from the 16th century until petering out in the 20th century. In modern times, Phuket's economy has rested on two pillars: rubber tree plantations (making Thailand the biggest producer of rubber in the world) and tourism.
+Since the 1980s, the sandy beaches on the west coast of the island have been heavily developed into tourist destinations, with Patong, Karon, and Kata being the most popular ones. Since the 2004 tsunami, all damaged buildings and attractions have been restored. Phuket is being intensely developed, with many new hotels, apartments, and houses under construction. A total of 5,080 additional hotel rooms are expected to be completed by 2015. In July 2005, Phuket was voted one of the world's top 5 retirement destinations by Fortune Magazine. There are thousands of expatriates living on Phuket, many of them retirees..</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Tin mining was a major source of income for the island from the 16th century until petering out in the 20th century. In modern times, Phuket's economy has rested on two pillars: rubber tree plantations (making Thailand the biggest producer of rubber in the world) and tourism.
+Since the 1980s, the sandy beaches on the west coast of the island have been heavily developed into tourist destinations, with Patong, Karon, and Kata being the most popular ones. Since the 2004 tsunami, all damaged buildings and attractions have been restored. Phuket is being intensely developed, with many new hotels, apartments, and houses under construction. A total of 5,080 additional hotel rooms are expected to be completed by 2015. In July 2005, Phuket was voted one of the world's top 5 retirement destinations by Fortune Magazine. There are thousands of expatriates living on Phuket, many of them retirees..</value>
+  </node>
+  <node>
+    <id>1b61f1e0-df55-4e36-922b-8e23935c91f8</id>
+    <title>Demographics</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>As with most of Thailand, the majority of the population is Buddhist, but there is a significant number of Muslims (20%) in Phuket, mainly descendants of the island's original sea-dwelling people. Among the Muslims, many are of Malay descent. People of Chinese ancestry make up an even larger population, many of whom having descended from tin miners who migrated to Phuket during the 19th century. Peranakans, known as "Phuket Babas" in the local tongue, constitute a fair share of members Chinese community, particularly among those who have family ties with the Peranakans of Penang and Malacca.
+Phuket provincial population in preliminary count of 2010 census was counted to be 525,018 people, including some 115,881 expatriates, or 21.1% of the population. However, it is admitted this is inaccurate since The Phuket Provincial Employment Office currently records for more than 64,000 Burmese, Lao and Cambodian workers legally residing on the island.
+The number of tourists on Phuket swells to over a million people on the island during the high tourist season, as tourists mainly from The United States, Britain and Western Europe flock to Phuket, with the peak being at Christmas break.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>As with most of Thailand, the majority of the population is Buddhist, but there is a significant number of Muslims (20%) in Phuket, mainly descendants of the island's original sea-dwelling people. Among the Muslims, many are of Malay descent. People of Chinese ancestry make up an even larger population, many of whom having descended from tin miners who migrated to Phuket during the 19th century. Peranakans, known as "Phuket Babas" in the local tongue, constitute a fair share of members Chinese community, particularly among those who have family ties with the Peranakans of Penang and Malacca.
+Phuket provincial population in preliminary count of 2010 census was counted to be 525,018 people, including some 115,881 expatriates, or 21.1% of the population. However, it is admitted this is inaccurate since The Phuket Provincial Employment Office currently records for more than 64,000 Burmese, Lao and Cambodian workers legally residing on the island.
+The number of tourists on Phuket swells to over a million people on the island during the high tourist season, as tourists mainly from The United States, Britain and Western Europe flock to Phuket, with the peak being at Christmas break.</value>
+  </node>
+  <node>
+    <id>623fd9b6-38f1-4f6d-b3b1-465f010d057b</id>
+    <title>Transportation</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>The Phuket International Airport is located in the north of the island. There are many scheduled flights and chartered flights from domestics and other countries in Asia, Australia, Europe and North America landing in Phuket. The airport commenced a 5.7 billion baht (US$185.7 million) expansion in September 2012, scheduled for completion in April 2015. The airport will increase its annual handling capacity from 6.5 million to 12.5 million passengers, and add a new international terminal.
+There is no rail-line to Phuket, but the trains do run to nearby Surat Thani. Songthaews (passenger pick-up vehicles) are a common mode of transport on Phuket. Phuket’s songthaews are larger than those found in other areas of Thailand. They travel between the town and beaches. There are also conventional bus services and motorbike taxis. The latter are found in large numbers in the main town and at Patong Beach. The traditional Tuk-tuks have been replaced by small vans, mostly red or some are yellow or green. Songthaews are the cheapest mode of transportation for travel from town to town. Car taxis are quite expensive and charge flat rates between towns.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>The Phuket International Airport is located in the north of the island. There are many scheduled flights and chartered flights from domestics and other countries in Asia, Australia, Europe and North America landing in Phuket. The airport commenced a 5.7 billion baht (US$185.7 million) expansion in September 2012, scheduled for completion in April 2015. The airport will increase its annual handling capacity from 6.5 million to 12.5 million passengers, and add a new international terminal.
+There is no rail-line to Phuket, but the trains do run to nearby Surat Thani. Songthaews (passenger pick-up vehicles) are a common mode of transport on Phuket. Phuket’s songthaews are larger than those found in other areas of Thailand. They travel between the town and beaches. There are also conventional bus services and motorbike taxis. The latter are found in large numbers in the main town and at Patong Beach. The traditional Tuk-tuks have been replaced by small vans, mostly red or some are yellow or green. Songthaews are the cheapest mode of transportation for travel from town to town. Car taxis are quite expensive and charge flat rates between towns.</value>
+  </node>
+  <node>
+    <id>c98ac8a0-8cab-407e-90c2-a6c48f4ec866</id>
+    <title>Attractions</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Two Heroines Monument (อนุสาวรีย์วีรสตรี), is a monument in Amphoe Thalang, a memorial statue of the heroines Thao Thep Kasattri (Kunying Jan) and Thao Sri Sunthon (Mook), who rallied islanders in 1785 to repel Burmese invaders. As the island's governor had just died, the organization of Phuket's defense against the Burmese invasion of 1785 was conducted by his widow, Thao Thep Kasattri. With her sister's help, they assembled what forces they had, then disguised local women as male soldiers, to make believe to have increased Phuket's military manpower. After a month's siege, the Burmese invaders became exhausted and retreated. King Rama I awarded Kunying Jan with the royal title of Thao Thep Kasattri.
+Thalang National Museum (พิพิธภัณฑสถานแห่งชาติ ถลาง) is located near the Two Heroines Monument. In 1985, on the 200th anniversary of the Thalang War, the Thalang National Museum was established. The museum contains a permanent exhibition of life in old Phuket, ancient artefacts and remains discovered on the coast, and materials used during war with Burma (Myanmar).
+
+Hat Patong (หาดป่าตอง) (Patong Beach) is Phuket's most developed beach and is 3 kilometres (1.9 mi)-long. It is located 15 km from Phuket town. Patong is mostly made up of hotels, restaurants, nightclubs and various tourist attractions. Daytime activities are primarily centered around the beach with many watersport activities. Patong is equally well known for its nightlife, centered around Soi Bangla. Patong is also a shopping option in Phuket selling items such as clothes, fashion accessories or souvenirs. The northern end of Patong Bay is called Kalim and is a popular place for viewing the sunset and between April and September each year for surfing.
+Hat Karon (หาดกะรน) is the second largest of Phuket's tourist beaches, approximately 20 kilometres (12 mi) from town. Large resort complexes line the road behind the shoreline, but the broad beach itself has no development. Numerous restaurants and tourist stores are located across the street from the beach. The southern point has a fine coral reef stretching toward Kata and Bu Island. There is also its sister beach Karon Noi.
+Kamala Beach, Hat Kamala is a large beach approximately 10 miles north of Patong Beach. The beach is undeveloped with coral reefs on the north side and surfing in the low season. It is a tourist beach in the high season and a sleepy seaside Muslim village in the low season. There is a market on Wednesday and Friday nights, as well as a weekly Saturday market.
+View Point (จุดชมวิว) This is located midpoint between Nai Han and Kata beaches. The scenic Kata Noi, Kata, and Karon beaches, and Ko Pu Island can be viewed from this point.
+Laem Phromthep (แหลมพรหมเทพ) (Phromthep Cape) is a headland forming the extreme south end of Phuket. "Phrom" is Thai for the Hindu term "Brahma", signifying purity, and "Thep" is Thai for 'God'. Local villagers used to refer to the cape as "Laem Chao", or the God's Cape, and it was an easily recognizable landmark for the early seafarers traveling up the Malay Peninsula from the sub-continent.
+Wat Chalong (วัดฉลองหรือวัดไชยธาราราม) is where stands the cast statue of Luang Pho Cham, who helped the people of Phuket put down the Angyee, or Chinese Coolie Rebellion, in 1876 during the reign of Rama V. There are also statues of Luang Pho Chuang, and Luang Pho Cham, abbots of the temple during later times.
+Khao Phra Thaeo Wildlife Conservation Development and Extension Centre (สถานีพัฒนาและส่งเสริมการอนุรักษ์สัตว์ป่าเขาพระแทว) is a center for study of the environment. Its duty is to promote and distribute wildlife within Khao Phra Thaeo wildlife park. The park is full of forest and also actively conserves a number of wild animals that would otherwise be extinct in Phuket.
+The Big Buddha of Phuket, พระพุทธมิ่งมงคลเอกเนาคคีรี (Phra Phutta Ming Mongkol Akenakiri or Ming Mongkol Buddha), is located on the peak of a mountain near Muang Phuket, or Phuket Town(ภูเก็ต) on Phuket Island, Thailand. The image is 45m in height and covered in white Burmese marble. At the time these photos were taken, the lotus throne had not yet been sheathed in marble.
+
+Phuket Butterfly Garden and Insect World, สวนผีเสื้อและโลกแมลงภูเก็ต is one of the very few remaining butterfly gardens in Thailand. It is located near Tesco Lotus Shopping Center in Bypass Road (Chalermprakiet Road).
+Outdoor Activities There are plenty of outdoor activities on offer in Phuket, including ATV rides, elephant treks, and some unique outdoor sports such as Frisbee Golf and Football Golf in Chalong.
+Old Phuket Town is located on Phuket City, around Thalang, Dibuk, Yaowarat, Phang-nga and Krabi roads. The beautiful architecture in Sino-Portuguese style are on two sides of the road that be shophouses, hotels, restaurants and museums for tourists make their day relax.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Two Heroines Monument (อนุสาวรีย์วีรสตรี), is a monument in Amphoe Thalang, a memorial statue of the heroines Thao Thep Kasattri (Kunying Jan) and Thao Sri Sunthon (Mook), who rallied islanders in 1785 to repel Burmese invaders. As the island's governor had just died, the organization of Phuket's defense against the Burmese invasion of 1785 was conducted by his widow, Thao Thep Kasattri. With her sister's help, they assembled what forces they had, then disguised local women as male soldiers, to make believe to have increased Phuket's military manpower. After a month's siege, the Burmese invaders became exhausted and retreated. King Rama I awarded Kunying Jan with the royal title of Thao Thep Kasattri.
+Thalang National Museum (พิพิธภัณฑสถานแห่งชาติ ถลาง) is located near the Two Heroines Monument. In 1985, on the 200th anniversary of the Thalang War, the Thalang National Museum was established. The museum contains a permanent exhibition of life in old Phuket, ancient artefacts and remains discovered on the coast, and materials used during war with Burma (Myanmar).
+
+Hat Patong (หาดป่าตอง) (Patong Beach) is Phuket's most developed beach and is 3 kilometres (1.9 mi)-long. It is located 15 km from Phuket town. Patong is mostly made up of hotels, restaurants, nightclubs and various tourist attractions. Daytime activities are primarily centered around the beach with many watersport activities. Patong is equally well known for its nightlife, centered around Soi Bangla. Patong is also a shopping option in Phuket selling items such as clothes, fashion accessories or souvenirs. The northern end of Patong Bay is called Kalim and is a popular place for viewing the sunset and between April and September each year for surfing.
+Hat Karon (หาดกะรน) is the second largest of Phuket's tourist beaches, approximately 20 kilometres (12 mi) from town. Large resort complexes line the road behind the shoreline, but the broad beach itself has no development. Numerous restaurants and tourist stores are located across the street from the beach. The southern point has a fine coral reef stretching toward Kata and Bu Island. There is also its sister beach Karon Noi.
+Kamala Beach, Hat Kamala is a large beach approximately 10 miles north of Patong Beach. The beach is undeveloped with coral reefs on the north side and surfing in the low season. It is a tourist beach in the high season and a sleepy seaside Muslim village in the low season. There is a market on Wednesday and Friday nights, as well as a weekly Saturday market.
+View Point (จุดชมวิว) This is located midpoint between Nai Han and Kata beaches. The scenic Kata Noi, Kata, and Karon beaches, and Ko Pu Island can be viewed from this point.
+Laem Phromthep (แหลมพรหมเทพ) (Phromthep Cape) is a headland forming the extreme south end of Phuket. "Phrom" is Thai for the Hindu term "Brahma", signifying purity, and "Thep" is Thai for 'God'. Local villagers used to refer to the cape as "Laem Chao", or the God's Cape, and it was an easily recognizable landmark for the early seafarers traveling up the Malay Peninsula from the sub-continent.
+Wat Chalong (วัดฉลองหรือวัดไชยธาราราม) is where stands the cast statue of Luang Pho Cham, who helped the people of Phuket put down the Angyee, or Chinese Coolie Rebellion, in 1876 during the reign of Rama V. There are also statues of Luang Pho Chuang, and Luang Pho Cham, abbots of the temple during later times.
+Khao Phra Thaeo Wildlife Conservation Development and Extension Centre (สถานีพัฒนาและส่งเสริมการอนุรักษ์สัตว์ป่าเขาพระแทว) is a center for study of the environment. Its duty is to promote and distribute wildlife within Khao Phra Thaeo wildlife park. The park is full of forest and also actively conserves a number of wild animals that would otherwise be extinct in Phuket.
+The Big Buddha of Phuket, พระพุทธมิ่งมงคลเอกเนาคคีรี (Phra Phutta Ming Mongkol Akenakiri or Ming Mongkol Buddha), is located on the peak of a mountain near Muang Phuket, or Phuket Town(ภูเก็ต) on Phuket Island, Thailand. The image is 45m in height and covered in white Burmese marble. At the time these photos were taken, the lotus throne had not yet been sheathed in marble.
+
+Phuket Butterfly Garden and Insect World, สวนผีเสื้อและโลกแมลงภูเก็ต is one of the very few remaining butterfly gardens in Thailand. It is located near Tesco Lotus Shopping Center in Bypass Road (Chalermprakiet Road).
+Outdoor Activities There are plenty of outdoor activities on offer in Phuket, including ATV rides, elephant treks, and some unique outdoor sports such as Frisbee Golf and Football Golf in Chalong.
+Old Phuket Town is located on Phuket City, around Thalang, Dibuk, Yaowarat, Phang-nga and Krabi roads. The beautiful architecture in Sino-Portuguese style are on two sides of the road that be shophouses, hotels, restaurants and museums for tourists make their day relax.</value>
+  </node>
+  <node>
+    <id>fdf27495-3a2f-4856-83bb-ccb45eaa8d92</id>
+    <title>Local culture</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Thao Thep Krasattri and Thao Si Sunthon Fair (งานท้าวเทพกระษัตรี - ท้าวศรีสุนทร) is held on March 13 every year to commemorate the two great heroines who rallied the Thalang people to repel Burmese invaders.
+Vegetarian Festival or Nine Emperor gods Festival (Chinese: 九皇勝會，KiuHong ShengHue or 九皇爺, KiuHongYe) Phuket Chinese people Call 食菜節，jai Cai (เทศกาลกินเจ(กินผัก-เจี๊ยะฉ่าย)) is held on the first day of the 9th Chinese lunar month (end Sept or early October). Phuket islanders of Chinese ancestry commit themselves to a 9-day vegetarian diet, a form of purification believed to help make the forthcoming year “trouble-free”. The festival is marked by several ascetic displays, including fire-walking and ascending sharp-bladed ladders.[1]
+Ghost Festival or PhoTo Festival (Chinese: 普渡節） Full name is U Lan Pun Sheng Hue (Chinese: 盂蘭盆勝會）
+is held on the middle day of the 7th Chinese lunar month the realms of Heaven and Hell and the realm of the living are open and both Taoists and Buddhists would perform rituals to transmute and absolve the sufferings of the deceased. Intrinsic to the Ghost Month is ancestor worship, where traditionally the filial piety of descendants extends to their ancestors even after their deaths. Activities during the month would include preparing ritualistic food offerings, burning incense, and burning joss paper, a papier-mâché form of material items such as clothes, gold and other fine goods for the visiting spirits of the ancestors. Elaborate meals (often vegetarian meals) would be served with empty seats for each of the deceased in the family treating the deceased as if they are still living. Ancestor worship is what distinguishes Qingming Festival from Ghost Festival because the latter includes paying respects to all deceased, including the same and younger generations, while the former only includes older generations. Other festivities may include, buying and releasing miniature paper boats and lanterns on water, which signifies giving directions to the lost ghosts and spirits of the ancestors and other deities.
+Phuket King’s Cup Regatta (งานแข่งเรือใบชิงถ้วยพระราชทาน) is held in December. The Kata Beach Resort hosts international yachtsmen, largely from neighbouring countries who compete in the Kata Beach area for royal trophies.[2]
+Laguna Phuket Triathlon (ลากูน่าภูเก็ตไตรกีฬา) is held in each December. The triathlon (a 1,800 metres (5,900 ft) swim, a 55 kilometres (34 mi) bike race and a 12 kilometres (7.5 mi) run and a 6 kilometres (3.7 mi) fun run) attracts many athletes from all over the world.[3]
+Phuket Travel Fair (เทศกาลเปิดฤดูการท่องเที่ยวจังหวัดภูเก็ต), starting from November 1, is usually called the Patong Carnival, from the place where celebrations occur. Colourful parades, sports events, and a beauty competition for foreign tourists are major activities.
+Chao Le (Sea Gypsy) Boat Floating Festival (งานประเพณีลอยเรือชาวเล) falls during the middle of the sixth and eleventh lunar months yearly. The sea gypsy villages at Rawai and Sapam hold their ceremonies on the 13th; Ko Si-re celebrates on the 14th; and Laem La (east of the bridge on Phuket’s northern tip) on the 15th. Ceremonies, which centre around the setting adrift of small boats similar to the Thai festival of Loi Krathong, are held at night and their purpose is to drive away evil and bring good luck.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Thao Thep Krasattri and Thao Si Sunthon Fair (งานท้าวเทพกระษัตรี - ท้าวศรีสุนทร) is held on March 13 every year to commemorate the two great heroines who rallied the Thalang people to repel Burmese invaders.
+Vegetarian Festival or Nine Emperor gods Festival (Chinese: 九皇勝會，KiuHong ShengHue or 九皇爺, KiuHongYe) Phuket Chinese people Call 食菜節，jai Cai (เทศกาลกินเจ(กินผัก-เจี๊ยะฉ่าย)) is held on the first day of the 9th Chinese lunar month (end Sept or early October). Phuket islanders of Chinese ancestry commit themselves to a 9-day vegetarian diet, a form of purification believed to help make the forthcoming year “trouble-free”. The festival is marked by several ascetic displays, including fire-walking and ascending sharp-bladed ladders.[1]
+Ghost Festival or PhoTo Festival (Chinese: 普渡節） Full name is U Lan Pun Sheng Hue (Chinese: 盂蘭盆勝會）
+is held on the middle day of the 7th Chinese lunar month the realms of Heaven and Hell and the realm of the living are open and both Taoists and Buddhists would perform rituals to transmute and absolve the sufferings of the deceased. Intrinsic to the Ghost Month is ancestor worship, where traditionally the filial piety of descendants extends to their ancestors even after their deaths. Activities during the month would include preparing ritualistic food offerings, burning incense, and burning joss paper, a papier-mâché form of material items such as clothes, gold and other fine goods for the visiting spirits of the ancestors. Elaborate meals (often vegetarian meals) would be served with empty seats for each of the deceased in the family treating the deceased as if they are still living. Ancestor worship is what distinguishes Qingming Festival from Ghost Festival because the latter includes paying respects to all deceased, including the same and younger generations, while the former only includes older generations. Other festivities may include, buying and releasing miniature paper boats and lanterns on water, which signifies giving directions to the lost ghosts and spirits of the ancestors and other deities.
+Phuket King’s Cup Regatta (งานแข่งเรือใบชิงถ้วยพระราชทาน) is held in December. The Kata Beach Resort hosts international yachtsmen, largely from neighbouring countries who compete in the Kata Beach area for royal trophies.[2]
+Laguna Phuket Triathlon (ลากูน่าภูเก็ตไตรกีฬา) is held in each December. The triathlon (a 1,800 metres (5,900 ft) swim, a 55 kilometres (34 mi) bike race and a 12 kilometres (7.5 mi) run and a 6 kilometres (3.7 mi) fun run) attracts many athletes from all over the world.[3]
+Phuket Travel Fair (เทศกาลเปิดฤดูการท่องเที่ยวจังหวัดภูเก็ต), starting from November 1, is usually called the Patong Carnival, from the place where celebrations occur. Colourful parades, sports events, and a beauty competition for foreign tourists are major activities.
+Chao Le (Sea Gypsy) Boat Floating Festival (งานประเพณีลอยเรือชาวเล) falls during the middle of the sixth and eleventh lunar months yearly. The sea gypsy villages at Rawai and Sapam hold their ceremonies on the 13th; Ko Si-re celebrates on the 14th; and Laem La (east of the bridge on Phuket’s northern tip) on the 15th. Ceremonies, which centre around the setting adrift of small boats similar to the Thai festival of Loi Krathong, are held at night and their purpose is to drive away evil and bring good luck.</value>
+  </node>
+  <node>
+    <id>4348f57b-73ed-4f3e-aa1c-22423be1518b</id>
+    <title>Cuisine</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Local dishes include:</description>
+    <children>fda513a8-185e-477a-a5db-412a14317e57,2d414564-c24c-4b83-af2a-802b663c386e</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Local dishes include:</value>
+  </node>
+  <node>
+    <id>fda513a8-185e-477a-a5db-412a14317e57</id>
+    <title>Phuket Southern Thai Food</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>Phuket Southern Thai Food</value>
+  </node>
+  <node>
+    <id>2d414564-c24c-4b83-af2a-802b663c386e</id>
+    <title>Phuket Chinese, Peranakan and Malay Food</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Mee Hokkien (福建麵）- Hokkien Noodles
+Hong Bak (封肉）
+Asam Hae (亚参虾）- Tamarind Prawns
+Sambal Hae (參巴虾）
+Sambal goreng (參巴Goreng）
+Tau-ui Bak (豆油肉）- Sweet Pork
+JiuHu Engcai (鰇魚蕹菜）- Squid Morning Glory
+Bo Piah (薄餅）- Spring Rolls Hokkien and Cantonese Style
+Loo Bak (卤肉）- Fried Spices Pork
+Ui P'ng (油飯）- Fried Sticky Rice
+BeeHun Bakkut (米粉肉骨）- Rice Vermicelli Bone Noodle Soup
+Cha MeeSua (炒麵線）- Fried Vermicelli
+Oo Dao (蚝豆）- Fried Oyster with Taro
+Oo Dao (蚝豆）- desi thalli indian</description>
+    <children>eaec0515-29ea-42b7-966e-cac90aa950b3</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Mee Hokkien (福建麵）- Hokkien Noodles
+Hong Bak (封肉）
+Asam Hae (亚参虾）- Tamarind Prawns
+Sambal Hae (參巴虾）
+Sambal goreng (參巴Goreng）
+Tau-ui Bak (豆油肉）- Sweet Pork
+JiuHu Engcai (鰇魚蕹菜）- Squid Morning Glory
+Bo Piah (薄餅）- Spring Rolls Hokkien and Cantonese Style
+Loo Bak (卤肉）- Fried Spices Pork
+Ui P'ng (油飯）- Fried Sticky Rice
+BeeHun Bakkut (米粉肉骨）- Rice Vermicelli Bone Noodle Soup
+Cha MeeSua (炒麵線）- Fried Vermicelli
+Oo Dao (蚝豆）- Fried Oyster with Taro
+Oo Dao (蚝豆）- desi thalli indian</value>
+  </node>
+  <node>
+    <id>eaec0515-29ea-42b7-966e-cac90aa950b3</id>
+    <title>Desserts</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>DaoSoo Pia (豆素餅）
+Angku Kue (紅龜粿）- Red Turtle Sticky Rice Cake
+Ti Kue (甜粿）- Chinese Year Cake
+Jubi Kaya (糯米咖椰）- Sticky Rice with Egg Custard
+Kue Talam
+Kue Bengka
+KaoZan Kue (九層糕）
+Pak Tong Ko (白糖糕）- White Sugar Sponge Cake
+Huat Kue (發粿）
+Kue Ape - Malay Pancake Style
+BanJian Kue (曼煎粿）
+Pang Pia (膨餅）
+Ke N'ng Ko (雞卵糕）- Egg Cake</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>DaoSoo Pia (豆素餅）
+Angku Kue (紅龜粿）- Red Turtle Sticky Rice Cake
+Ti Kue (甜粿）- Chinese Year Cake
+Jubi Kaya (糯米咖椰）- Sticky Rice with Egg Custard
+Kue Talam
+Kue Bengka
+KaoZan Kue (九層糕）
+Pak Tong Ko (白糖糕）- White Sugar Sponge Cake
+Huat Kue (發粿）
+Kue Ape - Malay Pancake Style
+BanJian Kue (曼煎粿）
+Pang Pia (膨餅）
+Ke N'ng Ko (雞卵糕）- Egg Cake</value>
+  </node>
+  <node>
+    <id>a77e2857-c38b-425f-8244-fc874dcb8ef2</id>
+    <title>Sister cities</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>Sister cities</value>
+  </node>
+  <node>
+    <id>e67115b1-7e94-4cd1-97de-f1143919409d</id>
+    <title>References</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>References</value>
+  </node>
+  <node>
+    <id>f917c069-66d3-47aa-bdd2-3bca09c91181</id>
+    <title>External links</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Forbes, Andrew, and Henley, David: Phuket’s Historic Peranakan Community
+ Phuket travel guide from Wikivoyage</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Forbes, Andrew, and Henley, David: Phuket’s Historic Peranakan Community
+ Phuket travel guide from Wikivoyage</value>
+  </node>
+  <node>
+    <id>2d221b9a-4307-4650-9d93-98d36bdafd7f</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0.5333334:0.8078431:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>0c240e12-1a72-4db6-b406-8399a628abff</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>ed884f5e-ce06-4700-b00f-83f3d4144499,b56326f0-9f9d-4794-8af5-60158be37072,ea0acf91-2a7c-4bf2-8ec3-e6e0dbc68b95</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>280fa3f5-d72b-4818-aa70-f72100836b74</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>00b4325e-99a0-433b-8cd3-1364c25240ab</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>ed884f5e-ce06-4700-b00f-83f3d4144499</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>944a4002-1ad6-4b07-97a0-05f342f44d6b,f9a8f27f-4e2e-4453-8cf6-dfddfedfa4f4,b77e5b6c-2009-4cf4-8552-86d8740d09cb,f0dcf89c-6bd6-43ea-8437-0296298ea534</children>
+    <color>1:0.4313726:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>b56326f0-9f9d-4794-8af5-60158be37072</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>ea0acf91-2a7c-4bf2-8ec3-e6e0dbc68b95</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>b2621aa9-ce0f-411d-90bc-f5518c86f2ee</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>cen</type>
+    <state>open</state>
+    <attributes>Tap to create attribute,super smooth,super fast,tragedy,melody,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0.5333334:0.8078431:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>New Title</value>
+  </node>
+  <node>
+    <id>7099c247-c238-40ce-9c3f-e82a55c49f48</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0.572549:0.8313726:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>1da492d8-c730-4a8c-b39c-f47151c57b8b</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>cen</type>
+    <state>open</state>
+    <attributes>Tap to create attribute,fffff,ssss,wwwww,abcdef,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>New Title</value>
+  </node>
+  <node>
+    <id>4826cbe1-d771-4b56-aef4-00ffcab1cb95</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>cen</type>
+    <state>open</state>
+    <attributes>Tap to create attribute,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>New Title</value>
+    <dimension>-31.03326:-68.44015:-0.04999931:1</dimension>
+  </node>
+  <node>
+    <id>d10493b8-b359-405d-88cc-ce2843942e78</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>13b29ffb-c98a-4bf1-ba18-f1e8bf6b6a31</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+    <dimension>-43.02525:-38.16665:0:1</dimension>
+  </node>
+  <node>
+    <id>13b29ffb-c98a-4bf1-ba18-f1e8bf6b6a31</id>
+    <title>Sochiero</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Darius Si</description>
+    <children>aff47919-685b-4d89-9d41-75fdbc3c8398</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Darius Si</value>
+  </node>
+  <node>
+    <id>aff47919-685b-4d89-9d41-75fdbc3c8398</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>Tap to create attribute,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Edit Title and Description by Pressing me for two seconds</value>
+  </node>
+  <node>
+    <id>944a4002-1ad6-4b07-97a0-05f342f44d6b</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>dot</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>New Title</value>
+  </node>
+  <node>
+    <id>f9a8f27f-4e2e-4453-8cf6-dfddfedfa4f4</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>dot</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>New Title</value>
+  </node>
+  <node>
+    <id>b77e5b6c-2009-4cf4-8552-86d8740d09cb</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>dot</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>New Title</value>
+  </node>
+  <node>
+    <id>f0dcf89c-6bd6-43ea-8437-0296298ea534</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>dot</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>New Title</value>
+  </node>
+</nodes>

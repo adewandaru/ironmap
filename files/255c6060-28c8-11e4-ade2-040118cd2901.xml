@@ -1,0 +1,50 @@
+<nodes>
+  <config>
+    <layouter>flow</layouter>
+  </config>
+  <node>
+    <id>1</id>
+    <title>Geospatial Analytical Search Engine</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>134c4aae-7c95-4928-93c5-7b8998d97f8f,9a550526-c38c-4589-91d0-ddd155df9d7a</children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <dimension>2.949275:-2.290362:0:1</dimension>
+  </node>
+  <node>
+    <id>134c4aae-7c95-4928-93c5-7b8998d97f8f</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>dot</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+  </node>
+  <node>
+    <id>9a550526-c38c-4589-91d0-ddd155df9d7a</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>dot</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+  </node>
+</nodes>

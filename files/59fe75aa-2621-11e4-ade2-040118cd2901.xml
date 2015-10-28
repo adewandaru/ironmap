@@ -1,0 +1,40 @@
+<nodes>
+  <config>
+    <layouter>flow</layouter>
+  </config>
+  <node>
+    <id>5242508d-41bf-4af8-b58d-ddcad589198c</id>
+    <title>Stomp</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>The Spanish road system is mainly centralized, with six highways connecting Madrid to the Basque Country, Catalonia, Valencia, West Andalusia, Extremadura and Galicia. Additionally, there are highways along the Atlantic (Ferrol to Vigo), Cantabrian (Oviedo to San Sebastián) and Mediterranean (Girona to Cádiz) coasts. Spain aims to put one million electric cars on the road by 2014 as part of the government's plan to save energy and boost energy efficiency. The Minister of Industry Miguel Sebastian said that "the electric vehicle is the future and the engine of an industrial revolution."
+
+Spain has the most extensive high-speed rail network in Europe, and the second-most extensive in the world after China. As of October 2010, Spain has a total of 3,500 km (2,174.80 mi) of high-speed tracks linking Málaga, Seville, Madrid, Barcelona, Valencia and Valladolid, with the trains reaching speeds up to 300 km/h (190 mph). On average, the Spanish high-speed train is the fastest one in the world, followed by the Japanese bullet train and the French TGV. Regarding punctuality, it is second in the world (98.54% on-time arrival) after the Japanese Shinkansen (99%). Should the aims of the ambitious AVE program (Spanish high speed trains) be met, by 2020 Spain will have 7,000 km (4,300 mi) of high-speed trains linking almost all provincial cities to Madrid in less than three hours and Barcelona within four hours.
+There are 47 public airports in Spain. The busiest one is the airport of Madrid (Barajas), with 50 million passengers in 2011, being the world's 15th busiest airport, as well as the European Union's fourth busiest. The airport of Barcelona (El Prat) is also important, with 35 million passengers in 2011, being the world's 31st-busiest airport. Other main airports are located in Majorca (23 million passengers), Málaga (13 million passengers), Las Palmas (Gran Canaria) (11 million passengers), Alicante (10 million passengers) and smaller, with the number of passengers between 4 and 10 million, for example Tenerife (two airports), Valencia, Seville, Bilbao, Ibiza, Lanzarote, Fuerteventura. Also, more than 30 airports with the number of passengers below 4 million.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(12.8, -20.8)</handlepos>
+    <dimension>-17.91647:27.59302:0:1</dimension>
+  </node>
+  <node>
+    <id>c5912141-277d-434c-bee8-9a685e7780a8</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>dot</type>
+    <state>open</state>
+    <attributes>Tap to create attribute,,,,,,</attributes>
+    <shownattributes>True,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <dimension>-29.46341:51.33847:-0.05061035:1</dimension>
+  </node>
+</nodes>

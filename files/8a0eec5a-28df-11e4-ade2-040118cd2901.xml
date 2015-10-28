@@ -1,0 +1,207 @@
+<nodes>
+  <config>
+    <layouter>flow</layouter>
+  </config>
+  <node>
+    <id>1</id>
+    <title>The Cats</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>4ab1d6e9-7ddd-4671-b1b1-e54f91dcafb6,03936ccd-2fa8-4130-bea6-c215b138c16c,e619117d-441f-4a03-ad12-fb9d6627acd6,bc675335-7c83-4373-9774-646a6df50a0b,f7ca7e2d-7b39-44ea-a731-85161664c249</children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <dimension>0:0:0:1</dimension>
+  </node>
+  <node>
+    <id>4ab1d6e9-7ddd-4671-b1b1-e54f91dcafb6</id>
+    <title>Summary</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>The Cats were a rock band from Volendam, Netherlands. Together with BZN, they were key figures of what came to be called the Palingsound (eel-sound), an umbrella for artists residing in Volendam.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>03936ccd-2fa8-4130-bea6-c215b138c16c</id>
+    <title>Career</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>62b75912-41ee-44fd-a8b5-d936ecedb7ad,36b863e7-f8c1-4f43-9b36-254f479ace8a,8ae52daf-8475-461b-b5ad-00d4a90e3429,6ade4e63-65c0-43d9-b939-96581efb72d4</children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+  </node>
+  <node>
+    <id>62b75912-41ee-44fd-a8b5-d936ecedb7ad</id>
+    <title>1960s</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>The band began life as two separate duos: Cees Veerman (6 October 1943 - 15 March 2014) and Arnold Muhren (born 28 January 1944) who started in a skiffle band; and cousins Piet Veerman (born 1 March 1943) and Jaap Schilder (born 9 January 1943) who modelled themselves after the Everly Brothers. The duos merged and became The Mystic Four, with Cees and Piet Veerman on vocals and guitar, Schilder on guitar (and piano), and Muhren on bass. By 1965 they changed their name to The Blue Cats, a reference to the colour of their suits and Cees' nickname, Poes (Dutch for 'cat'). Dropping the 'Blue' from their name in 1966 they recruited drummer Theo Klouwer (30 June 1947 – 8 February 2001).
+The Cats borrowed money from Jan Buys, who was later to become their manager, and recorded their first singles that immediately entered the charts. Singing in English thanks to a songwriting duo from England, the group sounded British. Cees initially performed the majority of the lead vocals but that was to change by 1968 when the band recorded "Times Were When"; Piet decided that this song (the original version is by the Scottish band Studio Six), suited his voice better and Cees agreed on giving him a go. Arnold's lyrics and Piet's sad voice appeared to be a match made in heaven, spawning five Top 10 hits in the next two years including "Lea" (dedicated to a faithful fan who died in a car accident), "Why?", "Scarlet Ribbons" and "Marian".</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>36b863e7-f8c1-4f43-9b36-254f479ace8a</id>
+    <title>1970s</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Their international popularity began to grow (and so did the beards). By spring 1970 the Cats toured Surinam and the Netherlands Antilles and played one show on 4 April 1970 in Guyana. It was Beatlemania all over again.
+On 17 October 1970 the band travelled to EMI headquarters in London to collect, as Theo said when the Dutch television show TopPop followed them, "a few goldies". These were presented to the band by Cliff Richard.
+Early in 1971 The Cats were touring Indonesia where again the Beatlemania-aspect awaited them. "Those horrible looks belie their warm personalities" one lady said in fluent Dutch. However, between performances they were rebuked for meeting with the expatriat Dutch political dissident Poncke Princen whom some in the Netherlands viewed as a traitor.
+"Don't Waste Your Time" broke a string of Top 10 chart dominations but that proved to be the calm before the storm, as "One Way Wind" (inspired by the divi-divi trees of the Windward Islands) became The Cats' biggest ever hit. In Germany it reached Number One chart position and in 1972 the band responded by releasing Katzenspiele (Cat's Play), featuring their hits rerecorded in German.
+By now, the band were so popular they had become part of the popular consciousness. For example, during the 1974 World Cup in West Germany, the Dutch national football team listened to a tape of The Cats on the team bus while travelling to their matches. But the busy schedule had begun to take its toll as Cees contracted voice problems. Roadcrew member Piet Keizer replaced him temporarily. Not having played on their own albums in six years, The Cats entered 1974 by flying to Los Angeles's Larrabee Studios to record Love in Our Eyes; or rather to add their voices to somebody else's songs. Not everyone enjoyed it. Cees was quoted of saying about the session: "'Be My Day' topped the charts, which was a great thing, but the rest of that pre-baked stuff should've been chucked into the ocean near Malibu".
+Their Malibu sojourn did not stop The Cats from going back to record Hard To Be Friends of which "Come Sunday" and the title track charted in late 1974 and early 1975. Cees had left by then but he returned a year later. Although the hits continued they failed to reach former glories.
+In 1978 The Cats were booked to appear on chart-show to playback "She Was Too Young". It was, however, a thinly-disguised solo-performance by Cees. Late in 1979 members of The Cats decided to disband. A farewell-single (a reissue of the 1972 track "End of the Show") charted as late as April 1980.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>8ae52daf-8475-461b-b5ad-00d4a90e3429</id>
+    <title>Solo careers</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>In 1976, Cees Veerman released a solo album called "Another Side Of Me", which spawned the single "Sailor, Sail On (Dreamer, Dream On)".
+In 1987, Piet Veerman had a solo-hit with "Sailing Home". Subsequent singles did reasonably well and he kept touring with a set of solo material and Cats classics, often using backing tapes. In 1995, Piet guested on a bilingual duet version of "One Way Wind" with Flemish singer Dana Winner titled "Westenwind". Piet sang in English and Winner sang in Dutch.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>6ade4e63-65c0-43d9-b939-96581efb72d4</id>
+    <title>2000s</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>On 23 March 2006, The Cats were made Members of the Order of Orange-Nassau. The same year the group made a reunion to record a single for inclusion on a best of album. It went gold.
+Cees Veerman performed with the Cats Aglow Band as support act of Willy De Ville's Amsterdam Carré show on 7 July 2008.
+Cees Veerman died at the age of 70, on 15 March 2014.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>e619117d-441f-4a03-ad12-fb9d6627acd6</id>
+    <title>Discogra- phy</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>d5aba250-5baa-47e3-a12f-1f9ce5a61fe5</children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+  </node>
+  <node>
+    <id>d5aba250-5baa-47e3-a12f-1f9ce5a61fe5</id>
+    <title>Albums</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Cats As Cats Can 1967
+Cats 1968
+Colour Us Gold 1969
+Portrait 1970
+Take Me with You 1970
+45 lives 1970
+Cats Aglow 1971
+One Way Wind 1972
+Lo Mejor 1972
+Times Were When 1972
+Signed by The Cats 1972
+Home 1973
+One Way Wind 1974
+Love in Your Eyes 1974
+10 Jaar 1974
+Hard To Be Friends 1975
+We Wish You a Merry Christmas 1975
+Homerun 1976
+Let's Go Together 1977
+Times Were When 1979
+The End of the Show 1980
+Third Life 1983
+Live in Concert 1984
+Flying High 1985
+Live 1991
+Shine On 1994</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+  <node>
+    <id>bc675335-7c83-4373-9774-646a6df50a0b</id>
+    <title>References</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+  </node>
+  <node>
+    <id>f7ca7e2d-7b39-44ea-a731-85161664c249</id>
+    <title>External links</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>fansite with the complete discography
+The Cats / Piet Veerman (Dutch)</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+  </node>
+</nodes>

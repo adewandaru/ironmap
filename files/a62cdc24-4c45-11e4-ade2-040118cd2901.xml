@@ -1,0 +1,962 @@
+<nodes>
+  <config>
+    <layouter>flow</layouter>
+  </config>
+  <node>
+    <id>56c9d57c-5166-4028-8e26-663544b7f69d</id>
+    <title>New Title</title>
+    <pic>c450dec609c2d339a814e71288aa76b8.png</pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>Tap to create attribute,,,,,,</attributes>
+    <shownattributes>True,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>b46784c5-d478-4b9e-806f-10673464ed32</children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>True</preserve>
+    <value>New Title</value>
+    <dimension>-12.67219:-15.91952:-0.04963379:1</dimension>
+  </node>
+  <node>
+    <id>f5e1e512-7c1b-4ca5-a8f5-9fb632142a82</id>
+    <title>Summary</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Club Penguin is a massively multiplayer online game (MMO) involving a virtual world containing a range of online games and activities, created by New Horizon Interactive (now known as Disney Canada Inc.) using SmartFoxServer. Players use cartoon penguin-avatars and play in a winter-set virtual world. After beta-testing, Club Penguin was made available to the general public on October 24, 2005 and has since expanded into a large online community —growing to the extent that by late 2007, it was claimed that Club Penguin had over 30 million user accounts. As of July 2013, Club Penguin has over 200 million registered user accounts.
+While free memberships are available, revenue is predominantly raised through paid memberships which allow players to access a range of additional features, such as the ability to purchase virtual clothing, furniture, and in-game pets called "puffles" for their penguins through the use of in-game currency. The success of Club Penguin led to New Horizon being purchased by The Walt Disney Company in August 2007 for the sum of 350 million dollars, with an additional 350 million dollars in bonuses should specific targets be met by 2009.
+The game is specifically designed for children aged 6 to 14, however, users of any age are allowed to play Club Penguin. Thus a major focus of the developers has been on child safety, with a number of features introduced to the game to facilitate this — including offering an "Ultimate Safe Chat" mode, whereby users select their comments from a menu; filtering that prevents swearing and the revelation of personal information; and moderators (along with veteran players) who patrol the game. The game has been criticized for teaching consumerism and allowing players to "cheat".</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Club Penguin is a massively multiplayer online game (MMO) involving a virtual world containing a range of online games and activities, created by New Horizon Interactive (now known as Disney Canada Inc.) using SmartFoxServer. Players use cartoon penguin-avatars and play in a winter-set virtual world. After beta-testing, Club Penguin was made available to the general public on October 24, 2005 and has since expanded into a large online community —growing to the extent that by late 2007, it was claimed that Club Penguin had over 30 million user accounts. As of July 2013, Club Penguin has over 200 million registered user accounts.
+While free memberships are available, revenue is predominantly raised through paid memberships which allow players to access a range of additional features, such as the ability to purchase virtual clothing, furniture, and in-game pets called "puffles" for their penguins through the use of in-game currency. The success of Club Penguin led to New Horizon being purchased by The Walt Disney Company in August 2007 for the sum of 350 million dollars, with an additional 350 million dollars in bonuses should specific targets be met by 2009.
+The game is specifically designed for children aged 6 to 14, however, users of any age are allowed to play Club Penguin. Thus a major focus of the developers has been on child safety, with a number of features introduced to the game to facilitate this — including offering an "Ultimate Safe Chat" mode, whereby users select their comments from a menu; filtering that prevents swearing and the revelation of personal information; and moderators (along with veteran players) who patrol the game. The game has been criticized for teaching consumerism and allowing players to "cheat".</value>
+  </node>
+  <node>
+    <id>9cab5401-4d95-4faa-ba61-fe00261b0059</id>
+    <title>History and development</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Lane Merrifield, Lance Priebe and Dave Krysko started Club Penguin in Kelowna, BC, Canada. They wanted to build a safe social-networking site their kids could enjoy free of advertising. They financed the start-up entirely with their own credit cards and personal lines of credit and maintained 100 percent ownership. And without a marketing budget, in three years they attracted 700,000 kids around the world paying a $5.95 US a month for a subscription – and 11 million others who signed up for more limited free access.
+As Merrifield later described the situation, they decided to build Club Penguin when they were unsuccessful in finding "something that had some social components but was safe, and not just marketed as safe" for their own children. Merrifield and Priebe approached their employer, David Krysko, with the idea of creating a spinoff company to develop the new product.
+Prior to starting work on Club Penguin, Lance Priebe had been developing Unity web-based games in his spare time. As part of Rocketsnail Games, Priebe released Experimental Penguins in 2000, which featured gameplay similar to that which was incorporated into Club Penguin. Although Experimental Penguins went offline in 2001, it was used as the inspiration for Penguin Chat, which was released shortly after Experimental Penguin's removal. Thus, when Priebe, Merrifield and Krysko decided to go ahead with Club Penguin in 2003, they had Penguin Chat on which to base part of the design process. Penguin Chat's third version was released in April 2005, and was used to test the client and servers of Club Penguin. Users from Penguin Chat were invited to beta test Club Penguin. The original plan was to release in 2010, but since the team had decided to fast-track the project, the first version of Club Penguin went live on October 24, 2005.
+Club Penguin started with 15,000 users, and by March that number had reached 1.4 million—a figure which almost doubled by September, when it hit 2.6 million. By the time Club Penguin was two years old, it had reached 3.9 million users. At the point when they were purchased by Disney, Club Penguin had 12 million accounts, of which 700,000 were paid subscribers, and were generating $40 million in annual revenue.
+Although the owners had turned down lucrative advertising offers and venture capital investments in the past, in August 2007 they agreed to sell both Club Penguin and its parent company for the sum of $350.93 million. In addition, the owners were promised bonuses of up to $350 million if they were able to meet growth targets by 2009. In making the sale, Merrifield has stated that their main focus during negotiations was philosophical, and that the intent was to provide themselves with the needed infrastructure in order to continue to grow.
+On March 11, 2008 Club Penguin released the Club Penguin Improvement Project. This project allowed players to be part of the testing of new servers put into use in Club Penguin on April 14, 2008. Players had a "clone" of their penguin made, to test these new servers for bugs and glitches. The testing was ended on April 4, 2008.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Lane Merrifield, Lance Priebe and Dave Krysko started Club Penguin in Kelowna, BC, Canada. They wanted to build a safe social-networking site their kids could enjoy free of advertising. They financed the start-up entirely with their own credit cards and personal lines of credit and maintained 100 percent ownership. And without a marketing budget, in three years they attracted 700,000 kids around the world paying a $5.95 US a month for a subscription – and 11 million others who signed up for more limited free access.
+As Merrifield later described the situation, they decided to build Club Penguin when they were unsuccessful in finding "something that had some social components but was safe, and not just marketed as safe" for their own children. Merrifield and Priebe approached their employer, David Krysko, with the idea of creating a spinoff company to develop the new product.
+Prior to starting work on Club Penguin, Lance Priebe had been developing Unity web-based games in his spare time. As part of Rocketsnail Games, Priebe released Experimental Penguins in 2000, which featured gameplay similar to that which was incorporated into Club Penguin. Although Experimental Penguins went offline in 2001, it was used as the inspiration for Penguin Chat, which was released shortly after Experimental Penguin's removal. Thus, when Priebe, Merrifield and Krysko decided to go ahead with Club Penguin in 2003, they had Penguin Chat on which to base part of the design process. Penguin Chat's third version was released in April 2005, and was used to test the client and servers of Club Penguin. Users from Penguin Chat were invited to beta test Club Penguin. The original plan was to release in 2010, but since the team had decided to fast-track the project, the first version of Club Penguin went live on October 24, 2005.
+Club Penguin started with 15,000 users, and by March that number had reached 1.4 million—a figure which almost doubled by September, when it hit 2.6 million. By the time Club Penguin was two years old, it had reached 3.9 million users. At the point when they were purchased by Disney, Club Penguin had 12 million accounts, of which 700,000 were paid subscribers, and were generating $40 million in annual revenue.
+Although the owners had turned down lucrative advertising offers and venture capital investments in the past, in August 2007 they agreed to sell both Club Penguin and its parent company for the sum of $350.93 million. In addition, the owners were promised bonuses of up to $350 million if they were able to meet growth targets by 2009. In making the sale, Merrifield has stated that their main focus during negotiations was philosophical, and that the intent was to provide themselves with the needed infrastructure in order to continue to grow.
+On March 11, 2008 Club Penguin released the Club Penguin Improvement Project. This project allowed players to be part of the testing of new servers put into use in Club Penguin on April 14, 2008. Players had a "clone" of their penguin made, to test these new servers for bugs and glitches. The testing was ended on April 4, 2008.</value>
+  </node>
+  <node>
+    <id>5be17dd2-488f-4afb-ae13-f909a0898c5f</id>
+    <title>Business model</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Prior to being purchased by Disney, Club Penguin was almost entirely dependent on membership fees to produce a revenue stream. Nevertheless, the vast majority of users (90% according to The Washington Post) chose not to pay, instead taking advantage of the free play on offer. Those who choose to pay do so because full (paid) membership is required to access all of the services, such as the ability to purchase virtual clothes for the penguins and buy decorations for igloos; and because peer pressure has created a "caste system" separating paid from unpaid members. Advertising, both in-game and on-site, has not been incorporated into the system, although some competitors have chosen to employ it: for example Whyville, which uses corporate sponsorship, and Neopets, which incorporates product placements.
+An alternative revenue stream has come through the development of an online merchandise shop, which opened on the Club Penguin website in August 2006, selling stuffed Puffles and T-shirts. Key chains, gift cards, and more shirts were added on November 7, 2006. October 2008 saw the release of a line of plush toys based on characters from Club Penguin, which were made available online (both through the Club Penguin store and Disney's online store), and in retail outlets.
+As with one of its major rivals, Webkinz, Club Penguin has traditionally relied almost entirely on word-of-mouth advertising to increase the membership.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Prior to being purchased by Disney, Club Penguin was almost entirely dependent on membership fees to produce a revenue stream. Nevertheless, the vast majority of users (90% according to The Washington Post) chose not to pay, instead taking advantage of the free play on offer. Those who choose to pay do so because full (paid) membership is required to access all of the services, such as the ability to purchase virtual clothes for the penguins and buy decorations for igloos; and because peer pressure has created a "caste system" separating paid from unpaid members. Advertising, both in-game and on-site, has not been incorporated into the system, although some competitors have chosen to employ it: for example Whyville, which uses corporate sponsorship, and Neopets, which incorporates product placements.
+An alternative revenue stream has come through the development of an online merchandise shop, which opened on the Club Penguin website in August 2006, selling stuffed Puffles and T-shirts. Key chains, gift cards, and more shirts were added on November 7, 2006. October 2008 saw the release of a line of plush toys based on characters from Club Penguin, which were made available online (both through the Club Penguin store and Disney's online store), and in retail outlets.
+As with one of its major rivals, Webkinz, Club Penguin has traditionally relied almost entirely on word-of-mouth advertising to increase the membership.</value>
+  </node>
+  <node>
+    <id>d5aa292d-15b1-4be2-8f03-0a6bf209cbea</id>
+    <title>Environment</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Club Penguin is divided into various rooms and distinct areas. Illustrator Peter Welleman designed many of the first environments. Each player is provided with an igloo for a home. Members have the option of opening their igloo so other penguins can access it via the map, under "Member Igloos". Members may also purchase larger igloos and decorate their igloos with items bought with virtual coins earned by playing mini-games. At least one party per month is held on Club Penguin. In most cases, a free clothing item is available, both for paid members and free users. Some parties also provide member only rooms in which only paid members can access. Some major Club Penguin parties are its annual Halloween and Holiday parties. Other large parties include the Music Jam, the Adventure Party, the Puffle Party, and the Medieval Party.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Club Penguin is divided into various rooms and distinct areas. Illustrator Peter Welleman designed many of the first environments. Each player is provided with an igloo for a home. Members have the option of opening their igloo so other penguins can access it via the map, under "Member Igloos". Members may also purchase larger igloos and decorate their igloos with items bought with virtual coins earned by playing mini-games. At least one party per month is held on Club Penguin. In most cases, a free clothing item is available, both for paid members and free users. Some parties also provide member only rooms in which only paid members can access. Some major Club Penguin parties are its annual Halloween and Holiday parties. Other large parties include the Music Jam, the Adventure Party, the Puffle Party, and the Medieval Party.</value>
+  </node>
+  <node>
+    <id>9686c938-1334-4085-86f5-3b6c3f64251f</id>
+    <title>Video games</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>9be3e491-8cf0-426d-a9a3-b2e4be87f072,3377d3c8-e647-48e2-8a5e-46c84682e45c</children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>Video games</value>
+  </node>
+  <node>
+    <id>9be3e491-8cf0-426d-a9a3-b2e4be87f072</id>
+    <title>Nintendo DS</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Club Penguin: Elite Penguin Force was released by Disney for the Nintendo DS on November 25, 2008. As members of the "Elite Penguin Force", players solve mysteries around Club Penguin. The game features mini-games from Club Penguin; coins earned by the mini-games can be transferred to the player's Club Penguin account. A sequel, Club Penguin: Elite Penguin Force: Herbert's Revenge, was announced on February 13, 2010 with a release of May 2010. A "mysterious penguin" resembling previously established character Dot the Disguise Gal is a major character in the game.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Club Penguin: Elite Penguin Force was released by Disney for the Nintendo DS on November 25, 2008. As members of the "Elite Penguin Force", players solve mysteries around Club Penguin. The game features mini-games from Club Penguin; coins earned by the mini-games can be transferred to the player's Club Penguin account. A sequel, Club Penguin: Elite Penguin Force: Herbert's Revenge, was announced on February 13, 2010 with a release of May 2010. A "mysterious penguin" resembling previously established character Dot the Disguise Gal is a major character in the game.</value>
+  </node>
+  <node>
+    <id>3377d3c8-e647-48e2-8a5e-46c84682e45c</id>
+    <title>Super</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>In 2010, Disney Interactive Studios announced plans for Club Penguin: Game Day!, a game for the Wii. It was reported that the game was released on September 21, 2010 in the U.S. It was reported that the game will involve players working as a team trying to earn sections of land on an island, with the objective being to conquer the island. The game is based around several interactive games, some of which are 3D versions of games currently played and games which appear only at the Fall Fair (such as Puffle Paddle) on the internet game. Players are be able to customize their penguins, choose their team (blue, red, yellow, or green) and any points earned in the Wii game can be synchronized with the internet game.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(12.8, -5.8)</handlepos>
+    <preserve>True</preserve>
+    <value>In 2010, Disney Interactive Studios announced plans for Club Penguin: Game Day!, a game for the Wii. It was reported that the game was released on September 21, 2010 in the U.S. It was reported that the game will involve players working as a team trying to earn sections of land on an island, with the objective being to conquer the island. The game is based around several interactive games, some of which are 3D versions of games currently played and games which appear only at the Fall Fair (such as Puffle Paddle) on the internet game. Players are be able to customize their penguins, choose their team (blue, red, yellow, or green) and any points earned in the Wii game can be synchronized with the internet game.</value>
+  </node>
+  <node>
+    <id>f994bd69-af3f-4f82-b386-c9857f07a9fa</id>
+    <title>Coins for Change</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Coins for Change is an in-game charity fund-raising event which first appeared in 2007. The fund-raising lasts for approximately two weeks each December during its annual "Holiday Party", where players can donate their virtual coins to three charitable issues: Kids who are sick, the environment, and kids in developing countries. Players donate in increments of 100, 250, 500, 1,000, 5,000, or 10,000 virtual coins. At the end of the first campaign, the New Horizon Foundation donated a total of $1 million to the World Wide Fund for Nature, the Elizabeth Glaser Pediatric AIDS Foundation, and Free The Children. Over one million dollars were donated by two-and-a-half million people. In 2008, one million dollars were donated by two-and-a-half million people.
+In 2009, Club Penguin donated $1,000,000 Canadian dollars to charitable projects around the world. Over 2.9 million players participated globally, using over 4 billion of their virtual coins to vote for their favorite cause. In 2010, Club Penguin donated $300,000 towards building safe places, $360,000 towards protecting the Earth, and $340,000 towards providing medical help. Players on Club Penguin donated over 12 billion virtual coins and filled Club Penguin's Lighthouse. Lane Merrifield said: "Our players are always looking for ways to make a difference and help others, and over the past five years they've embraced the opportunity to give through Coins For Change, it was exciting to see kids from 191 countries participate together.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Coins for Change is an in-game charity fund-raising event which first appeared in 2007. The fund-raising lasts for approximately two weeks each December during its annual "Holiday Party", where players can donate their virtual coins to three charitable issues: Kids who are sick, the environment, and kids in developing countries. Players donate in increments of 100, 250, 500, 1,000, 5,000, or 10,000 virtual coins. At the end of the first campaign, the New Horizon Foundation donated a total of $1 million to the World Wide Fund for Nature, the Elizabeth Glaser Pediatric AIDS Foundation, and Free The Children. Over one million dollars were donated by two-and-a-half million people. In 2008, one million dollars were donated by two-and-a-half million people.
+In 2009, Club Penguin donated $1,000,000 Canadian dollars to charitable projects around the world. Over 2.9 million players participated globally, using over 4 billion of their virtual coins to vote for their favorite cause. In 2010, Club Penguin donated $300,000 towards building safe places, $360,000 towards protecting the Earth, and $340,000 towards providing medical help. Players on Club Penguin donated over 12 billion virtual coins and filled Club Penguin's Lighthouse. Lane Merrifield said: "Our players are always looking for ways to make a difference and help others, and over the past five years they've embraced the opportunity to give through Coins For Change, it was exciting to see kids from 191 countries participate together.</value>
+  </node>
+  <node>
+    <id>c44633a8-0a05-4292-b047-929f60806e92</id>
+    <title>Books</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>In honor of Club Penguin's third anniversary in 2008, Club Penguin released books that are published under the Snowball Press name. Outside of the virtual world, such books are published by Grosset &amp; Dunlap and include guidebooks for the game as well as "choose-your-own-adventure" style books. The series includes The Ultimate Official Guide to Club Penguin Volume 1 by Ladybird Books, Stowaway! Adventures at Sea by Tracey West, Stuck on Puffles by Ladybird Books, and Waddle Lot of Laughs by Rebecca McCarthy.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>In honor of Club Penguin's third anniversary in 2008, Club Penguin released books that are published under the Snowball Press name. Outside of the virtual world, such books are published by Grosset &amp; Dunlap and include guidebooks for the game as well as "choose-your-own-adventure" style books. The series includes The Ultimate Official Guide to Club Penguin Volume 1 by Ladybird Books, Stowaway! Adventures at Sea by Tracey West, Stuck on Puffles by Ladybird Books, and Waddle Lot of Laughs by Rebecca McCarthy.</value>
+  </node>
+  <node>
+    <id>47a9db06-c922-4fc1-a382-c4a1e451c7bc</id>
+    <title>Child safety</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Club Penguin was designed for the ages of 6–14. Thus, one of the major concerns when designing Club Penguin was how to improve both the safety of participants and the suitability of the game to children. As Lane Merrifield stated, "the decision to build Club Penguin grew out of a desire to create a fun, virtual world that I and the site's other two founders would feel safe letting our own children visit." As a result, Club Penguin has maintained a strong focus on child safety, to the point whereby the security features have been described as almost "fastidious" and "reminiscent of an Orwellian dystopia", although it has also been argued that this focus may "reassure more parents than it alienates."
+The system employs a number of different approaches in an attempt to improve child safety. The key approaches include preventing the use of inappropriate usernames, providing an "Ultimate Safe Chat" mode, which limits players to selecting phrases from a list, using an automatic filter during "Standard Safe Chat" (which allows users to generate their own messages) and blocks profanity even when users employ "creative" methods to insert it into sentences, filtering seemingly innocuous terms, such as "mom", and blocking both telephone numbers and email addresses. It also includes employing paid moderators; out of 100 staff employed in the company in May 2007, Merrifield estimated that approximately 70 staff were dedicated to policing the game. It also includes promoting users to "EPF (Elite Penguin Force) Agent" status, and encouraging them to report inappropriate behavior.
+Each game server offers a particular type of chat—the majority allowing either chat mode, but some servers allow only the "Ultimate Safe Chat" mode. When using "Standard Safe Chat", all comments made by users are filtered. When a comment is blocked, the user who made the comment sees it, but other users are unaware that it was made—suggesting to the "speaker" that they are being ignored, rather than encouraging them to try and find a way around the restriction.
+Beyond these primary measures, systems are in place to limit the amount of time spent online, and the site does not feature any advertisements because, as described by Merrifield, "within two or three clicks, a kid could be on a gambling site or an adult dating site". Nevertheless, after Club Penguin was purchased by Disney, concerns were raised that this state of affairs may change, especially in regard to potential spin-off products  — although Disney has continued to insist that it believes advertising to be "inappropriate" for a young audience.
+Players who use profanity are often punished by an automatic 24-hour ban, although not all vulgar language results in an immediate ban. Players found by moderators to have broken Club Penguin rules are punished by a ban lasting "from 24 hours to forever depending on the offence."</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Club Penguin was designed for the ages of 6–14. Thus, one of the major concerns when designing Club Penguin was how to improve both the safety of participants and the suitability of the game to children. As Lane Merrifield stated, "the decision to build Club Penguin grew out of a desire to create a fun, virtual world that I and the site's other two founders would feel safe letting our own children visit." As a result, Club Penguin has maintained a strong focus on child safety, to the point whereby the security features have been described as almost "fastidious" and "reminiscent of an Orwellian dystopia", although it has also been argued that this focus may "reassure more parents than it alienates."
+The system employs a number of different approaches in an attempt to improve child safety. The key approaches include preventing the use of inappropriate usernames, providing an "Ultimate Safe Chat" mode, which limits players to selecting phrases from a list, using an automatic filter during "Standard Safe Chat" (which allows users to generate their own messages) and blocks profanity even when users employ "creative" methods to insert it into sentences, filtering seemingly innocuous terms, such as "mom", and blocking both telephone numbers and email addresses. It also includes employing paid moderators; out of 100 staff employed in the company in May 2007, Merrifield estimated that approximately 70 staff were dedicated to policing the game. It also includes promoting users to "EPF (Elite Penguin Force) Agent" status, and encouraging them to report inappropriate behavior.
+Each game server offers a particular type of chat—the majority allowing either chat mode, but some servers allow only the "Ultimate Safe Chat" mode. When using "Standard Safe Chat", all comments made by users are filtered. When a comment is blocked, the user who made the comment sees it, but other users are unaware that it was made—suggesting to the "speaker" that they are being ignored, rather than encouraging them to try and find a way around the restriction.
+Beyond these primary measures, systems are in place to limit the amount of time spent online, and the site does not feature any advertisements because, as described by Merrifield, "within two or three clicks, a kid could be on a gambling site or an adult dating site". Nevertheless, after Club Penguin was purchased by Disney, concerns were raised that this state of affairs may change, especially in regard to potential spin-off products  — although Disney has continued to insist that it believes advertising to be "inappropriate" for a young audience.
+Players who use profanity are often punished by an automatic 24-hour ban, although not all vulgar language results in an immediate ban. Players found by moderators to have broken Club Penguin rules are punished by a ban lasting "from 24 hours to forever depending on the offence."</value>
+  </node>
+  <node>
+    <id>8db1873b-7c2e-4c5e-9b4d-0157f704ee91</id>
+    <title>Reception and criticism</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Club Penguin has received positive reviews and criticism. The site was awarded a "kids' privacy seal of approval" from the Better Business Bureau. Similarly, Brian Ward, a Detective Inspector at the Child Abuse Investigation Command in the United Kingdom, stated that it is good for children to experience a restricted system such as Club Penguin before moving into social networking sites, which provide less protection. In terms of simple popularity, the rapid growth of Club Penguin suggests considerable success, although there are signs that this is leveling out. Nielsen figures released in April, 2008 indicated that in the previous 12 months Club Penguin traffic had shrunk by 7%.
+A criticism expressed by commentators is that the game encourages consumerism and allows players to cheat. While Club Penguin does not require members to purchase in-game products with real-life money (instead relying on a set monthly fee), players are encouraged to earn coins within the game with which to buy virtual products. In addition, the "competitive culture" that this can create has led to concerns about cheating, as children look for "shortcuts" to improve their standing, and, it is suggested, this may influence their real-world behavior. In the game's defense, Club Penguin has added guidelines to prevent cheating, and bans players who are caught cheating or who are encouraging cheating. The use of in-game money has been commented on as possibly helping teach children how to save money, select what to spend it on, improve their abilities at math, and encourage them to "practice safe money-management skills".
+In spite of the attempts to create a safe space for children in Club Penguin, concerns about safety and behavior still arise within the media. While the language in-game is filtered, discussions outside of Club Penguin are beyond the owner's control, and thus it has been stated that third-party Club Penguin forums can become "as bawdy as any other chat". But even within the game, some commentators have noted that "cyberbullying" can still occur, with flame wars potentially occurring within the game; and the "Caste system" between those who have membership and exclusive items and those who lack full membership, (and therefore are unable to own the "coolest" items), can lead to players having a difficult time attracting friends.
+One criticism came from Caitlin Flanagan in The Atlantic Monthly: in relation to the safety procedures, she noted that Club Penguin is "certainly the safest way for unsupervised children to talk to potentially malevolent strangers—but why would you want them to do that in the first place?" While views of the strength of this criticism may vary, the concern was mirrored by Lynsey Kiely in the Sunday Independent, who quoted Karen Mason, Communications Director for Club Penguin, as saying "we cannot guarantee that every person who visits the site is a child."
+Many experienced players have protested in-game about Disney apparently "ruining" Club Penguin. Although the staff and other players say that Disney had helped make Club Penguin better, many of the "rare" users disagree. In some protests, users have been removed from the server they were on and banned for starting protests against Disney. On August 20, 2013, Disney announced that Toontown Online, Pixie Hollow, and Pirates of the Caribbean Online were closing directly because of Club Penguin and Disney's mobile app games. This has caused Club Penguin major controversy between fans of the three games, especially Toontown, where some users have played for more than 12 years, when alpha started in August 2001.</description>
+    <children>e28fa14e-39b7-4452-9894-42501b97dec3</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Club Penguin has received positive reviews and criticism. The site was awarded a "kids' privacy seal of approval" from the Better Business Bureau. Similarly, Brian Ward, a Detective Inspector at the Child Abuse Investigation Command in the United Kingdom, stated that it is good for children to experience a restricted system such as Club Penguin before moving into social networking sites, which provide less protection. In terms of simple popularity, the rapid growth of Club Penguin suggests considerable success, although there are signs that this is leveling out. Nielsen figures released in April, 2008 indicated that in the previous 12 months Club Penguin traffic had shrunk by 7%.
+A criticism expressed by commentators is that the game encourages consumerism and allows players to cheat. While Club Penguin does not require members to purchase in-game products with real-life money (instead relying on a set monthly fee), players are encouraged to earn coins within the game with which to buy virtual products. In addition, the "competitive culture" that this can create has led to concerns about cheating, as children look for "shortcuts" to improve their standing, and, it is suggested, this may influence their real-world behavior. In the game's defense, Club Penguin has added guidelines to prevent cheating, and bans players who are caught cheating or who are encouraging cheating. The use of in-game money has been commented on as possibly helping teach children how to save money, select what to spend it on, improve their abilities at math, and encourage them to "practice safe money-management skills".
+In spite of the attempts to create a safe space for children in Club Penguin, concerns about safety and behavior still arise within the media. While the language in-game is filtered, discussions outside of Club Penguin are beyond the owner's control, and thus it has been stated that third-party Club Penguin forums can become "as bawdy as any other chat". But even within the game, some commentators have noted that "cyberbullying" can still occur, with flame wars potentially occurring within the game; and the "Caste system" between those who have membership and exclusive items and those who lack full membership, (and therefore are unable to own the "coolest" items), can lead to players having a difficult time attracting friends.
+One criticism came from Caitlin Flanagan in The Atlantic Monthly: in relation to the safety procedures, she noted that Club Penguin is "certainly the safest way for unsupervised children to talk to potentially malevolent strangers—but why would you want them to do that in the first place?" While views of the strength of this criticism may vary, the concern was mirrored by Lynsey Kiely in the Sunday Independent, who quoted Karen Mason, Communications Director for Club Penguin, as saying "we cannot guarantee that every person who visits the site is a child."
+Many experienced players have protested in-game about Disney apparently "ruining" Club Penguin. Although the staff and other players say that Disney had helped make Club Penguin better, many of the "rare" users disagree. In some protests, users have been removed from the server they were on and banned for starting protests against Disney. On August 20, 2013, Disney announced that Toontown Online, Pixie Hollow, and Pirates of the Caribbean Online were closing directly because of Club Penguin and Disney's mobile app games. This has caused Club Penguin major controversy between fans of the three games, especially Toontown, where some users have played for more than 12 years, when alpha started in August 2001.</value>
+  </node>
+  <node>
+    <id>e28fa14e-39b7-4452-9894-42501b97dec3</id>
+    <title>Awards and nominations</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>Awards and nominations</value>
+  </node>
+  <node>
+    <id>84db2c45-73eb-412f-9115-d8348fc61095</id>
+    <title>References</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>References</value>
+  </node>
+  <node>
+    <id>e2183a90-5f5e-401b-b723-176170a340b0</id>
+    <title>External links</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Official website
+Official app web page</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Official website
+Official app web page</value>
+  </node>
+  <node>
+    <id>11b532dc-cde8-4f75-acb5-4ecb13272420</id>
+    <title>Wiki Image</title>
+    <pic>http://upload.wikimedia.org/wikipedia/en/f/f4/Club_Penguin_logo.png</pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>
+    </value>
+  </node>
+  <node>
+    <id>1</id>
+    <title>/wiki club penguin</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>f5e1e512-7c1b-4ca5-a8f5-9fb632142a82,9cab5401-4d95-4faa-ba61-fe00261b0059,5be17dd2-488f-4afb-ae13-f909a0898c5f,d5aa292d-15b1-4be2-8f03-0a6bf209cbea,9686c938-1334-4085-86f5-3b6c3f64251f,f994bd69-af3f-4f82-b386-c9857f07a9fa,c44633a8-0a05-4292-b047-929f60806e92,47a9db06-c922-4fc1-a382-c4a1e451c7bc,8db1873b-7c2e-4c5e-9b4d-0157f704ee91,84db2c45-73eb-412f-9115-d8348fc61095,e2183a90-5f5e-401b-b723-176170a340b0,11b532dc-cde8-4f75-acb5-4ecb13272420</children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>True</preserve>
+    <value>Club Penguin</value>
+    <dimension>-16.85143:7.590079:0:1</dimension>
+  </node>
+  <node>
+    <id>b46784c5-d478-4b9e-806f-10673464ed32</id>
+    <title>New Title</title>
+    <pic>
+    </pic>
+    <type>dot</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>New Title</value>
+  </node>
+  <node>
+    <id>3b24dd4c-42c5-4199-afa0-f9f6cddf20e8</id>
+    <title>/wiki minecraft</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>Tap to create attribute,,,,,,</attributes>
+    <shownattributes>True,False,False,False,False,False,False</shownattributes>
+    <description>Edit Title and Description by Pressing me for two seconds</description>
+    <children>6d16fb3e-b512-4c8e-ba6f-ef8c845215fb,7ffe5676-b564-4f23-9a21-c210084fb423,f4dd730f-f3f8-49df-8641-9495572e1189,36fb0bde-f839-4d3d-bb8d-19959341d690,4ad6d9e2-0310-4cff-997f-54619c36b275,aa130cc8-14b2-4dfb-a89e-afb08865a256,18e1137e-f224-4e0b-b2a4-c589010c7097,52aed23a-5e0a-43a7-82be-00d2efa67713,7e220fad-e7b4-4bcb-8f5b-7adb235b141a,ab8aa9a3-9cdf-429b-a752-3e932acc1a40,bd191563-5ed5-40be-b7a6-fc20a1b92315,5e19b1b3-8b86-4bf2-971e-91402915b3d9,916ac7de-a6be-4631-a6be-b504851a8b93,c6881052-3137-474a-b8e7-766341189282,c504c2ac-be36-437d-9b65-da1e9c59f9be,e7399cea-e45a-4bb3-bce5-6691f59bb914,a33580dd-82c1-4111-ba45-88885118143e,662b4ef3-bb03-4f64-b904-cba0e28930b7,3f913d73-9607-48af-ba9e-d0d4632dfada</children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>True</preserve>
+    <value>Minecraft</value>
+    <dimension>-35.62498:51.21464:-0.04963379:1</dimension>
+  </node>
+  <node>
+    <id>6d16fb3e-b512-4c8e-ba6f-ef8c845215fb</id>
+    <title>Summary</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Minecraft is a sandbox indie game originally created by Swedish programmer Markus "Notch" Persson and later developed and published by Mojang. It was publicly released for the PC on May 17, 2009, as a developmental alpha version and, after gradual updates, was published as a full release version on November 18, 2011. A version for Android was released a month earlier on October 7, and an iOS version was released on November 17, 2011. The game was released on the Xbox 360 as an Xbox Live Arcade game on May 9, 2012, and on the PlayStation 3 on December 17, 2013. The game was released on the PlayStation 4 on September 4, 2014, launching on the Xbox One the next day. All versions of Minecraft receive periodic updates, with the console editions being co-developed by 4J Studios.
+The creative and building aspects of Minecraft allow players to build constructions out of textured cubes in a 3D procedurally generated world. Other activities in the game include exploration, gathering resources, crafting, and combat. Multiple gameplay modes are available, including survival modes where the player must acquire resources to build and maintain his or her health and hunger, a creative mode where players have unlimited resources to build and the ability to fly, and an adventure mode where players can create custom maps for other players to play.
+Minecraft received five awards during the 2011 Game Developers Conference. Of the Game Developers Choice Awards, it won the Innovation Award, Best Downloadable Game Award, and Best Debut Game Award; from the Independent Games Festival, it won the Audience Award and the Seumas McNally Grand Prize. In 2012, Minecraft was awarded a Golden Joystick Award in the category Best Downloadable Game.
+As of June 25, 2014, over 12 million copies of the game on the Xbox 360 and 15 million copies on PC have been sold; nearly 54 million copies have been sold across all platforms.
+On September 15, 2014, Microsoft announced a deal to purchase the game's devel</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Minecraft is a sandbox indie game originally created by Swedish programmer Markus "Notch" Persson and later developed and published by Mojang. It was publicly released for the PC on May 17, 2009, as a developmental alpha version and, after gradual updates, was published as a full release version on November 18, 2011. A version for Android was released a month earlier on October 7, and an iOS version was released on November 17, 2011. The game was released on the Xbox 360 as an Xbox Live Arcade game on May 9, 2012, and on the PlayStation 3 on December 17, 2013. The game was released on the PlayStation 4 on September 4, 2014, launching on the Xbox One the next day. All versions of Minecraft receive periodic updates, with the console editions being co-developed by 4J Studios.
+The creative and building aspects of Minecraft allow players to build constructions out of textured cubes in a 3D procedurally generated world. Other activities in the game include exploration, gathering resources, crafting, and combat. Multiple gameplay modes are available, including survival modes where the player must acquire resources to build and maintain his or her health and hunger, a creative mode where players have unlimited resources to build and the ability to fly, and an adventure mode where players can create custom maps for other players to play.
+Minecraft received five awards during the 2011 Game Developers Conference. Of the Game Developers Choice Awards, it won the Innovation Award, Best Downloadable Game Award, and Best Debut Game Award; from the Independent Games Festival, it won the Audience Award and the Seumas McNally Grand Prize. In 2012, Minecraft was awarded a Golden Joystick Award in the category Best Downloadable Game.
+As of June 25, 2014, over 12 million copies of the game on the Xbox 360 and 15 million copies on PC have been sold; nearly 54 million copies have been sold across all platforms.
+On September 15, 2014, Microsoft announced a deal to purchase the game's devel</value>
+  </node>
+  <node>
+    <id>7ffe5676-b564-4f23-9a21-c210084fb423</id>
+    <title>Gameplay</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Minecraft is an open world game that has no specific goals for the player to accomplish, allowing players a large amount of freedom in choosing how to play the game. However, there is an achievement system. Gameplay by default is first person, but players have the option to play in third person mode. The core gameplay revolves around breaking and placing blocks. The game world is essentially composed of rough 3D objects—mainly cubes—that are arranged in a fixed grid pattern and represent different materials, such as dirt, stone, various ores, water, and tree trunks. While players can move freely across the world, objects and items can only be placed at fixed locations relative to the grid. Players can gather these material blocks and place them elsewhere, thus allowing for various constructions.
+At the start of the game, the player is placed on the surface of a procedurally generated and virtually infinite game world. Players can walk across the terrain consisting of plains, mountains, forests, caves, and various water bodies. The world is divided into biomes ranging from deserts to jungles to snowfields. The in-game time system follows a day and night cycle, with one full cycle lasting 20 real-time minutes. Throughout the course of the game, players encounter various non-player characters known as mobs, including animals, villagers and hostile creatures. Non-hostile animals—such as cows, pigs, and chickens—spawn during the daytime. The player may hunt them for food and crafting materials. By contrast, hostile mobs—such as large spiders, skeletons, and zombies—spawn during nighttime and in dark places, such as caves. Some Minecraft-unique creatures have been noted by reviewers, such as the Creeper, an exploding creature that sneaks up on the player; and the Enderman, a creature with the ability to teleport and pick up blocks.
+
+The game world is procedurally generated as players explore it, using a seed which is obtained from the system clock at the time of world creation unless manually specified by the player. Although limits exist on vertical movement both up and down, Minecraft allows for an infinitely large game world to be generated on the horizontal plane, only running into technical problems when extremely distant locations are reached. The game achieves this by splitting the game world data into smaller sections called "chunks", which are only created or loaded into memory when players are nearby.
+The game's physics system, in which most solid blocks are unaffected by gravity, has often been described as unrealistic by commentators. Liquids in the game flow from a source block, which can be removed by placing a solid block in its place, or by scooping it into a bucket. Complex systems can be built using primitive mechanical devices, electrical circuits, and logic gates built with an in-game material known as redstone.
+Minecraft features two alternate dimensions besides the main world – the Nether and The End. The Nether is a hell-like dimension accessed via player-built portals that contains many unique resources and can be used to travel great distances in the overworld. The End is a barren land in which a boss dragon called the Ender Dragon dwells. Killing the dragon cues the game's ending credits, written by Irish author Julian Gough. Players are then allowed to teleport back to their original spawn point in the overworld, and will receive "The End" achievement. There is also a second boss called "The Wither", which drops materials used to build a placeable beacon that can enhance certain abilities of all nearby players. A third boss, which lives in the sea, is currently known as the Guardian, it has been added in the 1.8 update of Minecraft.
+The game primarily consists of two game modes: survival and creative. It also has a changeable difficulty system of four levels; the easiest difficulty (peaceful) removes any hostile creatures that spawn.</description>
+    <children>2f474ca5-d507-47ee-997b-ecea2cedcf15,d7b9e649-79da-4925-aa4f-dafbe06d673e,b4197322-c948-4cac-8a80-f611b55710e9,e8cb7364-4700-4feb-825f-f6154ffbf0c9</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Minecraft is an open world game that has no specific goals for the player to accomplish, allowing players a large amount of freedom in choosing how to play the game. However, there is an achievement system. Gameplay by default is first person, but players have the option to play in third person mode. The core gameplay revolves around breaking and placing blocks. The game world is essentially composed of rough 3D objects—mainly cubes—that are arranged in a fixed grid pattern and represent different materials, such as dirt, stone, various ores, water, and tree trunks. While players can move freely across the world, objects and items can only be placed at fixed locations relative to the grid. Players can gather these material blocks and place them elsewhere, thus allowing for various constructions.
+At the start of the game, the player is placed on the surface of a procedurally generated and virtually infinite game world. Players can walk across the terrain consisting of plains, mountains, forests, caves, and various water bodies. The world is divided into biomes ranging from deserts to jungles to snowfields. The in-game time system follows a day and night cycle, with one full cycle lasting 20 real-time minutes. Throughout the course of the game, players encounter various non-player characters known as mobs, including animals, villagers and hostile creatures. Non-hostile animals—such as cows, pigs, and chickens—spawn during the daytime. The player may hunt them for food and crafting materials. By contrast, hostile mobs—such as large spiders, skeletons, and zombies—spawn during nighttime and in dark places, such as caves. Some Minecraft-unique creatures have been noted by reviewers, such as the Creeper, an exploding creature that sneaks up on the player; and the Enderman, a creature with the ability to teleport and pick up blocks.
+
+The game world is procedurally generated as players explore it, using a seed which is obtained from the system clock at the time of world creation unless manually specified by the player. Although limits exist on vertical movement both up and down, Minecraft allows for an infinitely large game world to be generated on the horizontal plane, only running into technical problems when extremely distant locations are reached. The game achieves this by splitting the game world data into smaller sections called "chunks", which are only created or loaded into memory when players are nearby.
+The game's physics system, in which most solid blocks are unaffected by gravity, has often been described as unrealistic by commentators. Liquids in the game flow from a source block, which can be removed by placing a solid block in its place, or by scooping it into a bucket. Complex systems can be built using primitive mechanical devices, electrical circuits, and logic gates built with an in-game material known as redstone.
+Minecraft features two alternate dimensions besides the main world – the Nether and The End. The Nether is a hell-like dimension accessed via player-built portals that contains many unique resources and can be used to travel great distances in the overworld. The End is a barren land in which a boss dragon called the Ender Dragon dwells. Killing the dragon cues the game's ending credits, written by Irish author Julian Gough. Players are then allowed to teleport back to their original spawn point in the overworld, and will receive "The End" achievement. There is also a second boss called "The Wither", which drops materials used to build a placeable beacon that can enhance certain abilities of all nearby players. A third boss, which lives in the sea, is currently known as the Guardian, it has been added in the 1.8 update of Minecraft.
+The game primarily consists of two game modes: survival and creative. It also has a changeable difficulty system of four levels; the easiest difficulty (peaceful) removes any hostile creatures that spawn.</value>
+  </node>
+  <node>
+    <id>2f474ca5-d507-47ee-997b-ecea2cedcf15</id>
+    <title>Survival mode</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>In this mode, players have to gather natural resources (such as wood, stone, etc.) found in the environment in order to craft certain blocks and items. Depending on the difficulty, monsters spawn at darker places on the map, necessitating that the player builds a shelter at night. The mode also features a health bar which is depleted by attacks from monsters, falls, drowning, falling into lava, suffocation, starvation, and other events. Players also have a hunger bar, which must be periodically refilled by eating food in-game, except in peaceful mode, in which the hunger bar does not drain. If the hunger bar is depleted, then the health bar will slowly diminish. Health replenishes when players have a nearly full hunger bar, and also regenerates regardless of fullness if players play on the easiest difficulty.
+There are a wide variety of items that players can craft in Minecraft. Players can craft armor, which can help mitigate damage from attacks, while weapons such as swords can be crafted to kill enemies and other animals more easily. Players may acquire different resources to craft tools, such as weapons, armor, food, and various other items. By acquiring better resources, players can craft more effective items. For example, tools such as axes, shovels, or pickaxes, can be used to chop down trees, dig soil, and mine ores, respectively; and tools made out of better resources (such as iron in place of stone) perform their tasks more quickly and can be used more heavily before breaking. Players may also trade goods with villager mobs through a bartering system. Emeralds are often the currency of the villagers, although some trade with wheat or other materials.
+The game has an inventory system and players are limited to the number of items they can carry. Upon dying, items in the players' inventories are dropped, and players respawn at the current spawn point, which is set by default where players begin the game, but can be reset if players sleep in beds in-game. Dropped items can be recovered if players can reach them before they despawn. Players may acquire experience points by killing mobs and other players, mining, smelting ores, breeding animals, and cooking food. Experience can then be spent on enchanting tools, armor and weapons. Enchanted items are generally more powerful, last longer, or have other special effects.
+Players may also play in hardcore mode, a variant of survival mode that differs primarily in the game being locked to the hardest gameplay setting as well as featuring permadeath; upon players' death, their world is deleted.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>In this mode, players have to gather natural resources (such as wood, stone, etc.) found in the environment in order to craft certain blocks and items. Depending on the difficulty, monsters spawn at darker places on the map, necessitating that the player builds a shelter at night. The mode also features a health bar which is depleted by attacks from monsters, falls, drowning, falling into lava, suffocation, starvation, and other events. Players also have a hunger bar, which must be periodically refilled by eating food in-game, except in peaceful mode, in which the hunger bar does not drain. If the hunger bar is depleted, then the health bar will slowly diminish. Health replenishes when players have a nearly full hunger bar, and also regenerates regardless of fullness if players play on the easiest difficulty.
+There are a wide variety of items that players can craft in Minecraft. Players can craft armor, which can help mitigate damage from attacks, while weapons such as swords can be crafted to kill enemies and other animals more easily. Players may acquire different resources to craft tools, such as weapons, armor, food, and various other items. By acquiring better resources, players can craft more effective items. For example, tools such as axes, shovels, or pickaxes, can be used to chop down trees, dig soil, and mine ores, respectively; and tools made out of better resources (such as iron in place of stone) perform their tasks more quickly and can be used more heavily before breaking. Players may also trade goods with villager mobs through a bartering system. Emeralds are often the currency of the villagers, although some trade with wheat or other materials.
+The game has an inventory system and players are limited to the number of items they can carry. Upon dying, items in the players' inventories are dropped, and players respawn at the current spawn point, which is set by default where players begin the game, but can be reset if players sleep in beds in-game. Dropped items can be recovered if players can reach them before they despawn. Players may acquire experience points by killing mobs and other players, mining, smelting ores, breeding animals, and cooking food. Experience can then be spent on enchanting tools, armor and weapons. Enchanted items are generally more powerful, last longer, or have other special effects.
+Players may also play in hardcore mode, a variant of survival mode that differs primarily in the game being locked to the hardest gameplay setting as well as featuring permadeath; upon players' death, their world is deleted.</value>
+  </node>
+  <node>
+    <id>d7b9e649-79da-4925-aa4f-dafbe06d673e</id>
+    <title>Creative mode</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>In creative mode, players have access to all of the resources and items in the game through the inventory menu, and can place or remove them instantly. Players, able to fly freely around the game world, do not take environmental or mob damage, and are not affected by hunger. The game mode helps players focus on building and creating large projects.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>In creative mode, players have access to all of the resources and items in the game through the inventory menu, and can place or remove them instantly. Players, able to fly freely around the game world, do not take environmental or mob damage, and are not affected by hunger. The game mode helps players focus on building and creating large projects.</value>
+  </node>
+  <node>
+    <id>b4197322-c948-4cac-8a80-f611b55710e9</id>
+    <title>Adventure mode</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Adventure mode was added to Minecraft in version 1.3; it was designed specifically so that players could experience user crafted custom maps and adventures. Gameplay is similar to survival mode but introduces various player restrictions. This is so that players can obtain the required items and experience adventures in the way that the mapmaker intended. Another addition designed for custom maps is the command block; this block allows mapmakers to expand interactions with players through certain server commands.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Adventure mode was added to Minecraft in version 1.3; it was designed specifically so that players could experience user crafted custom maps and adventures. Gameplay is similar to survival mode but introduces various player restrictions. This is so that players can obtain the required items and experience adventures in the way that the mapmaker intended. Another addition designed for custom maps is the command block; this block allows mapmakers to expand interactions with players through certain server commands.</value>
+  </node>
+  <node>
+    <id>e8cb7364-4700-4feb-825f-f6154ffbf0c9</id>
+    <title>Multiplayer</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Multiplayer on Minecraft is available through player-hosted servers and enables multiple players to interact and communicate with each other on a single world. Players can run their own servers or use a hosting provider. Single player worlds have local area network support, allowing players to join worlds on locally interconnected computers without a server setup. Minecraft multiplayer servers are guided by server operators, who have access to server commands such as setting the time of day and teleporting players around. Operators can also set up restrictions concerning which usernames or IP addresses are allowed to enter the server. Multiplayer servers offer players a wide range of activities, with some servers having their own unique rules and customs. A stand-alone server called CraftBukkit has been developed by the community to facilitate development of server-side plugins enabling otherwise impossible gameplay elements such as permissions, ranks, virtual currency, and chat formatting. Competitions are available in some servers, in which players can participate in a variety of games, including some resembling The Hunger Games. A gamemode, PvP (player versus player), may be enabled to allow fighting between players. In 2013 Mojang announced Minecraft Realms, a server hosting service intended to enable players to run server multiplayer games easily and safely without the hassle of setting up their own.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Multiplayer on Minecraft is available through player-hosted servers and enables multiple players to interact and communicate with each other on a single world. Players can run their own servers or use a hosting provider. Single player worlds have local area network support, allowing players to join worlds on locally interconnected computers without a server setup. Minecraft multiplayer servers are guided by server operators, who have access to server commands such as setting the time of day and teleporting players around. Operators can also set up restrictions concerning which usernames or IP addresses are allowed to enter the server. Multiplayer servers offer players a wide range of activities, with some servers having their own unique rules and customs. A stand-alone server called CraftBukkit has been developed by the community to facilitate development of server-side plugins enabling otherwise impossible gameplay elements such as permissions, ranks, virtual currency, and chat formatting. Competitions are available in some servers, in which players can participate in a variety of games, including some resembling The Hunger Games. A gamemode, PvP (player versus player), may be enabled to allow fighting between players. In 2013 Mojang announced Minecraft Realms, a server hosting service intended to enable players to run server multiplayer games easily and safely without the hassle of setting up their own.</value>
+  </node>
+  <node>
+    <id>f4dd730f-f3f8-49df-8641-9495572e1189</id>
+    <title>Development</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>The developer of Minecraft, Markus "Notch" Persson, began developing the game as an independent project while working for King.com and later jAlbum. He was inspired to create Minecraft by several other games such as Dwarf Fortress, Dungeon Keeper, and later Infiniminer. At the time, he had visualized an isometric 3D building game that would be a cross between his inspirations and had made some early prototypes. Infiniminer heavily influenced the style of gameplay, including the first-person aspect of the game, the "blocky" visual style and the block-building fundamentals. However, unlike Infiniminer, Persson wanted Minecraft to have RPG elements.
+Minecraft was first released to the public on May 17, 2009, as a developmental release on TIGSource forums, later becoming known as the Classic version. Further milestones dubbed as Survival Test, Indev and Infdev were released between September 2009 and February 2010, although the game saw updates in-between. The first major update, dubbed alpha version, was released on June 28, 2010. Although Persson maintained a day job with Jalbum.net at first, he later quit in order to work on Minecraft full-time as sales of the alpha version of the game expanded. Persson continued to update the game with releases distributed to users automatically. These updates included features such as new items, new blocks, new mobs, survival mode, and changes to the game's behavior (e.g., how water flows).
+To back the development of Minecraft, Persson set up a video game company, Mojang, with the money earned from the game. On December 11, 2010, Persson announced that Minecraft was entering its beta testing phase on December 20, 2010. He further stated that users who bought the game after this date would no longer be guaranteed to receive all future content free of charge as it "scared both the lawyers and the board." However, bug fixes and all updates leading up to and including the release would still be free. Over the course of the development, Mojang hired several new employees to work on the project.
+Mojang moved the game out of beta and released the full version on November 18, 2011. The game has been continuously updated since the release, with changes ranging from new game content to new server hosts. On December 1, 2011, Jens "Jeb" Bergensten took full creative control over Minecraft, replacing Persson as lead developer. On February 28, 2012, Mojang announced that they had hired the developers of the popular server platform "CraftBukkit" to improve Minecraft's support of server and client modifications. This acquisition also included Mojang apparently taking full ownership of the CraftBukkit modification, although the validity of this claim was questioned due to its status as an open-source project with many contributors, licensed under the GNU General Public License and Lesser General Public License.</description>
+    <children>aa5f05e6-6497-4e16-bc08-9bbf77b34c19</children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>The developer of Minecraft, Markus "Notch" Persson, began developing the game as an independent project while working for King.com and later jAlbum. He was inspired to create Minecraft by several other games such as Dwarf Fortress, Dungeon Keeper, and later Infiniminer. At the time, he had visualized an isometric 3D building game that would be a cross between his inspirations and had made some early prototypes. Infiniminer heavily influenced the style of gameplay, including the first-person aspect of the game, the "blocky" visual style and the block-building fundamentals. However, unlike Infiniminer, Persson wanted Minecraft to have RPG elements.
+Minecraft was first released to the public on May 17, 2009, as a developmental release on TIGSource forums, later becoming known as the Classic version. Further milestones dubbed as Survival Test, Indev and Infdev were released between September 2009 and February 2010, although the game saw updates in-between. The first major update, dubbed alpha version, was released on June 28, 2010. Although Persson maintained a day job with Jalbum.net at first, he later quit in order to work on Minecraft full-time as sales of the alpha version of the game expanded. Persson continued to update the game with releases distributed to users automatically. These updates included features such as new items, new blocks, new mobs, survival mode, and changes to the game's behavior (e.g., how water flows).
+To back the development of Minecraft, Persson set up a video game company, Mojang, with the money earned from the game. On December 11, 2010, Persson announced that Minecraft was entering its beta testing phase on December 20, 2010. He further stated that users who bought the game after this date would no longer be guaranteed to receive all future content free of charge as it "scared both the lawyers and the board." However, bug fixes and all updates leading up to and including the release would still be free. Over the course of the development, Mojang hired several new employees to work on the project.
+Mojang moved the game out of beta and released the full version on November 18, 2011. The game has been continuously updated since the release, with changes ranging from new game content to new server hosts. On December 1, 2011, Jens "Jeb" Bergensten took full creative control over Minecraft, replacing Persson as lead developer. On February 28, 2012, Mojang announced that they had hired the developers of the popular server platform "CraftBukkit" to improve Minecraft's support of server and client modifications. This acquisition also included Mojang apparently taking full ownership of the CraftBukkit modification, although the validity of this claim was questioned due to its status as an open-source project with many contributors, licensed under the GNU General Public License and Lesser General Public License.</value>
+  </node>
+  <node>
+    <id>aa5f05e6-6497-4e16-bc08-9bbf77b34c19</id>
+    <title>Audio</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Minecraft's music and sound effects are produced by German composer Daniel "C418" Rosenfeld. The background music in Minecraft is non-lyrical ambient music. On March 4, 2011, Rosenfeld released a soundtrack, titled Minecraft – Volume Alpha; it includes most of the tracks featured in Minecraft, as well as other music not featured in the game. The video game blog Kotaku chose the music in Minecraft as one of the best video game soundtracks of 2011. On November 9, 2013, Rosenfeld released the second official soundtrack, titled Minecraft – Volume Beta, which includes the music that was added in later versions of the game.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Minecraft's music and sound effects are produced by German composer Daniel "C418" Rosenfeld. The background music in Minecraft is non-lyrical ambient music. On March 4, 2011, Rosenfeld released a soundtrack, titled Minecraft – Volume Alpha; it includes most of the tracks featured in Minecraft, as well as other music not featured in the game. The video game blog Kotaku chose the music in Minecraft as one of the best video game soundtracks of 2011. On November 9, 2013, Rosenfeld released the second official soundtrack, titled Minecraft – Volume Beta, which includes the music that was added in later versions of the game.</value>
+  </node>
+  <node>
+    <id>36fb0bde-f839-4d3d-bb8d-19959341d690</id>
+    <title>Platforms</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>622ff31d-5379-4f18-bbe6-c99bb544e934,9ca78587-f26c-4aff-adf1-c27cda635e63,cc071a81-a52c-4314-9afc-0592742e3e84</children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>Platforms</value>
+  </node>
+  <node>
+    <id>622ff31d-5379-4f18-bbe6-c99bb544e934</id>
+    <title>Personal computer versions</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>The PC was the original platform for Minecraft; the game runs on multiple operating systems including Windows, OS X, and Linux. Apart from the main version, there are other versions of Minecraft available for PC, including Minecraft Classic and Minecraft 4k.
+Minecraft Classic is an older version of Minecraft, available online for players. Unlike newer versions of Minecraft, the classic version is free to play, though it is no longer updated. It functions much the same as creative mode, allowing players to build and destroy any and all parts of the world either alone or in a multiplayer server. There are no computer creatures in this mode, and environmental hazards such as lava will not damage players. Some blocks function differently since their behavior was later changed during development. Minecraft 4k is a simplified version of Minecraft similar to the classic version that was developed for the Java 4K game programming contest "in way less than 4 kilobytes". The map itself is finite—composed of 64×64×64 blocks—and the same world is generated every time. Players are restricted to placing or destroying blocks, which are randomly located and consist of grass, dirt, stone, wood, leaves, and brick.
+A port of Minecraft for the Raspberry Pi was officially revealed at MineCon 2012. Mojang stated that the Pi Edition is similar to the Pocket Edition except that it is downgraded to an older version, and with the added ability of using text commands to edit the game world. Players can open the game code and use programming language to manipulate things in the game world. The game was leaked on December 20, 2012, but was quickly pulled off. It was officially released on February 11, 2013.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>The PC was the original platform for Minecraft; the game runs on multiple operating systems including Windows, OS X, and Linux. Apart from the main version, there are other versions of Minecraft available for PC, including Minecraft Classic and Minecraft 4k.
+Minecraft Classic is an older version of Minecraft, available online for players. Unlike newer versions of Minecraft, the classic version is free to play, though it is no longer updated. It functions much the same as creative mode, allowing players to build and destroy any and all parts of the world either alone or in a multiplayer server. There are no computer creatures in this mode, and environmental hazards such as lava will not damage players. Some blocks function differently since their behavior was later changed during development. Minecraft 4k is a simplified version of Minecraft similar to the classic version that was developed for the Java 4K game programming contest "in way less than 4 kilobytes". The map itself is finite—composed of 64×64×64 blocks—and the same world is generated every time. Players are restricted to placing or destroying blocks, which are randomly located and consist of grass, dirt, stone, wood, leaves, and brick.
+A port of Minecraft for the Raspberry Pi was officially revealed at MineCon 2012. Mojang stated that the Pi Edition is similar to the Pocket Edition except that it is downgraded to an older version, and with the added ability of using text commands to edit the game world. Players can open the game code and use programming language to manipulate things in the game world. The game was leaked on December 20, 2012, but was quickly pulled off. It was officially released on February 11, 2013.</value>
+  </node>
+  <node>
+    <id>9ca78587-f26c-4aff-adf1-c27cda635e63</id>
+    <title>Console versions</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>The Xbox 360 version of the game, developed by 4J Studios, was released on May 9, 2012. On March 22, 2012, it was announced that Minecraft would be the flagship game in a new Xbox Live promotion called Arcade NEXT. The game has some features that are exclusive to the Xbox 360 version, including the newly designed crafting system, the control interface, in-game tutorials, split-screen multiplayer, and the ability to play with friends via Xbox Live. The version's crafting interface does not require players to place items in the correct place in a crafting menu. The interface shows the blocks required to craft the selected item, and crafts it if the players have enough blocks. Also, the worlds in the version are not "infinite", and are essentially barricaded by invisible walls. The Xbox 360 version was originally similar in content to older PC versions, but is being gradually updated to bring it closer to the current PC version.
+Similarly to the Xbox versions, the PlayStation versions are also being developed by 4J Studios. The PlayStation 3 version was released on December 17, 2013, and is nearly an exact clone of the Xbox 360 version.
+During their E3 2013 press conference Microsoft showed a trailer for Minecraft: Xbox One Edition. It will build off Minecraft: Xbox 360 Edition but feature larger worlds, expanded multiplayer features, and enhancements powered by the Xbox One. This version was released on September 5, 2014. 
+At Gamescom 2013, Sony said that Minecraft would be released as a PlayStation 4 launch title, and would later be released as for the PlayStation Vita and PlayStation 3. However, the game was later delayed and the PlayStation 4 version did not launch alongside the console. It was released on the PlayStation 3 on December 18, 2013, and on the Playstation 4 on September 4, 2014.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>The Xbox 360 version of the game, developed by 4J Studios, was released on May 9, 2012. On March 22, 2012, it was announced that Minecraft would be the flagship game in a new Xbox Live promotion called Arcade NEXT. The game has some features that are exclusive to the Xbox 360 version, including the newly designed crafting system, the control interface, in-game tutorials, split-screen multiplayer, and the ability to play with friends via Xbox Live. The version's crafting interface does not require players to place items in the correct place in a crafting menu. The interface shows the blocks required to craft the selected item, and crafts it if the players have enough blocks. Also, the worlds in the version are not "infinite", and are essentially barricaded by invisible walls. The Xbox 360 version was originally similar in content to older PC versions, but is being gradually updated to bring it closer to the current PC version.
+Similarly to the Xbox versions, the PlayStation versions are also being developed by 4J Studios. The PlayStation 3 version was released on December 17, 2013, and is nearly an exact clone of the Xbox 360 version.
+During their E3 2013 press conference Microsoft showed a trailer for Minecraft: Xbox One Edition. It will build off Minecraft: Xbox 360 Edition but feature larger worlds, expanded multiplayer features, and enhancements powered by the Xbox One. This version was released on September 5, 2014. 
+At Gamescom 2013, Sony said that Minecraft would be released as a PlayStation 4 launch title, and would later be released as for the PlayStation Vita and PlayStation 3. However, the game was later delayed and the PlayStation 4 version did not launch alongside the console. It was released on the PlayStation 3 on December 18, 2013, and on the Playstation 4 on September 4, 2014.</value>
+  </node>
+  <node>
+    <id>cc071a81-a52c-4314-9afc-0592742e3e84</id>
+    <title>Handheld versions</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>On August 16, 2011, Minecraft – Pocket Edition was released for the Xperia Play on the Android Market as an early alpha version. It was then released for several other compatible devices on October 8, 2011. An iOS version of Minecraft was released on November 17, 2011. The port concentrates on the creative building and the primitive survival aspect of the game, and does not contain all the features of the PC release. On his Twitter account, Jens Bergensten noted that the Pocket Edition of Minecraft is written in C++ and not Java, due to iOS not being able to support Java. Gradual updates are periodically released to bring the port closer to the PC version.
+At Gamescom 2013, Sony confirmed that Minecraft would be released for the PlayStation Vita.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>On August 16, 2011, Minecraft – Pocket Edition was released for the Xperia Play on the Android Market as an early alpha version. It was then released for several other compatible devices on October 8, 2011. An iOS version of Minecraft was released on November 17, 2011. The port concentrates on the creative building and the primitive survival aspect of the game, and does not contain all the features of the PC release. On his Twitter account, Jens Bergensten noted that the Pocket Edition of Minecraft is written in C++ and not Java, due to iOS not being able to support Java. Gradual updates are periodically released to bring the port closer to the PC version.
+At Gamescom 2013, Sony confirmed that Minecraft would be released for the PlayStation Vita.</value>
+  </node>
+  <node>
+    <id>4ad6d9e2-0310-4cff-997f-54619c36b275</id>
+    <title>User-generated and downloadable content</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>A wide variety of user-generated content for Minecraft, such as modifications, texture packs and custom maps, is available for download from the Internet. Modifications of the Minecraft code, called mods, add a variety of gameplay changes, ranging from new blocks, new items, new mobs to entire arrays of mechanisms to craft. The modding community is responsible for a substantial supply of mods from ones that enhance gameplay, such as minimaps, waypoints, and durability counters, to ones that add to the game elements from Pokémon, Portal, and The Hunger Games. To make mods easier to create and install, Mojang announced in November 2012 that it plans to add an official modding API. As of 2014, Mojang has yet to reveal more about their modding API.
+Texture packs that customize the game's graphics are also available. In version 1.6, texture packs were replaced with "resource packs". These play the same role as texture packs, but allow custom sounds as well. Custom maps have become popular as well. Players can create their own maps, which often contain rules, challenges, puzzles and quests, and share them for others to play. In version 1.3 Mojang added adventure mode  for custom maps and in 1.4, Mojang added command blocks, which were created specially for custom maps. In Minecraft 1.8, Mojang is planning to allow resource packs to be implemented into the world save.
+The Xbox 360 Edition supports downloadable content, which is available to purchase via the Xbox Games Store; these content packs usually contain additional character skins. It later received support for texture packs in its twelfth title update while introducing "mash-up packs", which combines texture packs with skin packs and changes to the game's sounds, music and user interface. The first mash-up pack (and by extension, the first texture pack) for the Xbox 360 Edition was released on September 4, 2013, and is themed after the Mass Effect franchise. Unlike the PC version, however, the Xbox 360 Edition does not support player-made mods or custom maps.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>A wide variety of user-generated content for Minecraft, such as modifications, texture packs and custom maps, is available for download from the Internet. Modifications of the Minecraft code, called mods, add a variety of gameplay changes, ranging from new blocks, new items, new mobs to entire arrays of mechanisms to craft. The modding community is responsible for a substantial supply of mods from ones that enhance gameplay, such as minimaps, waypoints, and durability counters, to ones that add to the game elements from Pokémon, Portal, and The Hunger Games. To make mods easier to create and install, Mojang announced in November 2012 that it plans to add an official modding API. As of 2014, Mojang has yet to reveal more about their modding API.
+Texture packs that customize the game's graphics are also available. In version 1.6, texture packs were replaced with "resource packs". These play the same role as texture packs, but allow custom sounds as well. Custom maps have become popular as well. Players can create their own maps, which often contain rules, challenges, puzzles and quests, and share them for others to play. In version 1.3 Mojang added adventure mode  for custom maps and in 1.4, Mojang added command blocks, which were created specially for custom maps. In Minecraft 1.8, Mojang is planning to allow resource packs to be implemented into the world save.
+The Xbox 360 Edition supports downloadable content, which is available to purchase via the Xbox Games Store; these content packs usually contain additional character skins. It later received support for texture packs in its twelfth title update while introducing "mash-up packs", which combines texture packs with skin packs and changes to the game's sounds, music and user interface. The first mash-up pack (and by extension, the first texture pack) for the Xbox 360 Edition was released on September 4, 2013, and is themed after the Mass Effect franchise. Unlike the PC version, however, the Xbox 360 Edition does not support player-made mods or custom maps.</value>
+  </node>
+  <node>
+    <id>aa130cc8-14b2-4dfb-a89e-afb08865a256</id>
+    <title>Reception</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>5ecb61f7-1fa6-48ce-a134-f2867fab1d14,03411137-546f-4053-993e-5d726fb95bd4,3044e0ab-045e-4cc7-a681-77709d1137d9</children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>Reception</value>
+  </node>
+  <node>
+    <id>5ecb61f7-1fa6-48ce-a134-f2867fab1d14</id>
+    <title>Commercial</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>On January 12, 2011, Minecraft passed 1 million purchases, less than a month after entering its beta phase. At the same time, the game had no publisher backing and has never been commercially advertised except through word of mouth, and various unpaid references in popular media such as the Penny Arcade webcomic. By April 2011, Persson estimated that Minecraft had made €23 million (US$33 million) in revenue, with 800,000 sales of the alpha version of the game, and over 1 million sales of the beta version. In November 2011, prior to the game's full release, Minecraft beta surpassed 16 million registered users and 4 million purchases. By March 2012, Minecraft had become the 6th best-selling PC game of all time. As of April 29, 2014, the game has sold 15 million copies on PC, becoming the best-selling PC game of all time. As of June 25, 2014, the game has sold almost 54 million copies across all platforms. On February 25, 2014, the game reached 100 million registered users.
+The Xbox 360 version of Minecraft became profitable within the first 24 hours of the game's release in 2012, when the game broke the Xbox Live sales records with 400,000 players online. Within a week of being on the Xbox Live Marketplace, Minecraft sold upwards of 1 million copies. GameSpot announced in December 2012 that Minecraft sold over 4.48 million copies since the game debuted on Xbox LIVE Arcade in May 2012. In 2012, Minecraft was the most purchased title on Xbox Live Arcade; it was also the fourth most played title on Xbox Live based on average unique users per day. As of April 4, 2014, the Xbox 360 version has sold 12 million copies. In addition, Minecraft: Pocket Edition has reached a figure of 21 million in sales. The PlayStation 3 version sold one million copies in five weeks.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>On January 12, 2011, Minecraft passed 1 million purchases, less than a month after entering its beta phase. At the same time, the game had no publisher backing and has never been commercially advertised except through word of mouth, and various unpaid references in popular media such as the Penny Arcade webcomic. By April 2011, Persson estimated that Minecraft had made €23 million (US$33 million) in revenue, with 800,000 sales of the alpha version of the game, and over 1 million sales of the beta version. In November 2011, prior to the game's full release, Minecraft beta surpassed 16 million registered users and 4 million purchases. By March 2012, Minecraft had become the 6th best-selling PC game of all time. As of April 29, 2014, the game has sold 15 million copies on PC, becoming the best-selling PC game of all time. As of June 25, 2014, the game has sold almost 54 million copies across all platforms. On February 25, 2014, the game reached 100 million registered users.
+The Xbox 360 version of Minecraft became profitable within the first 24 hours of the game's release in 2012, when the game broke the Xbox Live sales records with 400,000 players online. Within a week of being on the Xbox Live Marketplace, Minecraft sold upwards of 1 million copies. GameSpot announced in December 2012 that Minecraft sold over 4.48 million copies since the game debuted on Xbox LIVE Arcade in May 2012. In 2012, Minecraft was the most purchased title on Xbox Live Arcade; it was also the fourth most played title on Xbox Live based on average unique users per day. As of April 4, 2014, the Xbox 360 version has sold 12 million copies. In addition, Minecraft: Pocket Edition has reached a figure of 21 million in sales. The PlayStation 3 version sold one million copies in five weeks.</value>
+  </node>
+  <node>
+    <id>03411137-546f-4053-993e-5d726fb95bd4</id>
+    <title>Critical</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Minecraft has been praised for the creative freedom it grants players in-game, as well as the ease of enabling emergent gameplay. Critics have praised Minecraft's complex crafting system, commenting that it is an important aspect of the game's open-ended gameplay. Most publications were impressed by the game's "blocky" graphics, with IGN describing them as "instantly memorable". Reviewers also liked the game's adventure elements, noting that the game creates a good balance between exploring and building. The game's multiplayer feature has been generally received favorably, with IGN commenting that "adventuring is always better with friends."
+Reviewers have criticized the game's lack of in-game tutorials and instructions, making it difficult for new players to learn how to play the game. IGN was disappointed about the troublesome steps needed to set up multiplayer servers, calling it a "hassle". Critics also noted visual glitches that occur periodically. In 2009, GameSpot maintained that the game has an "unfinished feel", adding that "some game elements seem incomplete or thrown together in haste."
+A review of the alpha version, by Scott Munro of the Daily Record, called it "already something special" and urged readers to buy it. Jim Rossignol of Rock, Paper, Shotgun also recommended the alpha of the game, calling it "a kind of generative 8-bit Lego Stalker". On September 17, 2010, gaming webcomic Penny Arcade began a series of comics and news posts about the addictiveness of the game.
+The Xbox 360 version was generally received positively by critics, but did not receive as much praise as the PC version. Although reviewers were disappointed by the lack of features such as mod support and content from the PC version, they acclaimed the port's addition of a tutorial and in-game tips and crafting recipes, saying that they make the game more user-friendly.
+Minecraft – Pocket Edition initially received mixed reviews from critics. Although reviewers appreciated the game's intuitive controls, they were disappointed by the lack of content. The inability in the game to collect resources and craft items, as well as the game's lack of hostile mobs and limited types of blocks, were especially criticized. Recently, though, it has starting receiving positive reviews, due to the game's updates adding more content. In addition to the controls, reviewers have complimented the graphics, though still note the lack of content and limited sized worlds.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Minecraft has been praised for the creative freedom it grants players in-game, as well as the ease of enabling emergent gameplay. Critics have praised Minecraft's complex crafting system, commenting that it is an important aspect of the game's open-ended gameplay. Most publications were impressed by the game's "blocky" graphics, with IGN describing them as "instantly memorable". Reviewers also liked the game's adventure elements, noting that the game creates a good balance between exploring and building. The game's multiplayer feature has been generally received favorably, with IGN commenting that "adventuring is always better with friends."
+Reviewers have criticized the game's lack of in-game tutorials and instructions, making it difficult for new players to learn how to play the game. IGN was disappointed about the troublesome steps needed to set up multiplayer servers, calling it a "hassle". Critics also noted visual glitches that occur periodically. In 2009, GameSpot maintained that the game has an "unfinished feel", adding that "some game elements seem incomplete or thrown together in haste."
+A review of the alpha version, by Scott Munro of the Daily Record, called it "already something special" and urged readers to buy it. Jim Rossignol of Rock, Paper, Shotgun also recommended the alpha of the game, calling it "a kind of generative 8-bit Lego Stalker". On September 17, 2010, gaming webcomic Penny Arcade began a series of comics and news posts about the addictiveness of the game.
+The Xbox 360 version was generally received positively by critics, but did not receive as much praise as the PC version. Although reviewers were disappointed by the lack of features such as mod support and content from the PC version, they acclaimed the port's addition of a tutorial and in-game tips and crafting recipes, saying that they make the game more user-friendly.
+Minecraft – Pocket Edition initially received mixed reviews from critics. Although reviewers appreciated the game's intuitive controls, they were disappointed by the lack of content. The inability in the game to collect resources and craft items, as well as the game's lack of hostile mobs and limited types of blocks, were especially criticized. Recently, though, it has starting receiving positive reviews, due to the game's updates adding more content. In addition to the controls, reviewers have complimented the graphics, though still note the lack of content and limited sized worlds.</value>
+  </node>
+  <node>
+    <id>3044e0ab-045e-4cc7-a681-77709d1137d9</id>
+    <title>Awards</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>In July 2010, PC Gamer listed Minecraft as the fourth-best game to play at work. In December of that year, Good Game selected Minecraft as their choice for Best Downloadable Game of 2010, Gamasutra named it the eighth best game of the year as well as the eighth best indie game of the year, and Rock, Paper, Shotgun named it the "game of the year". Indie DB awarded the game the 2010 Indie of the Year award as chosen by voters, in addition to two out of five Editor's Choice awards for Most Innovative and Best Singleplayer Indie. It was also awarded Game of the Year by PC Gamer UK. The game was nominated for the Seumas McNally Grand Prize, Technical Excellence, and Excellence in Design awards at the March 2011 Independent Games Festival and won the Grand Prize along with community-voted Audience Award. At Game Developers Choice Awards 2011, Minecraft won awards in the categories for Best Debut Game, Best Downloadable Game and Innovation Award, winning every award for which it was nominated. It has also won GameCity's videogame arts prize. On May 5, 2011, Minecraft was selected as one of the 80 games that would be displayed at the Smithsonian American Art Museum as part of The Art of Video Games exhibit that opened on March 16, 2012. At the 2011 Spike Video Game Awards, Minecraft won the award for Best Independent Game and was nominated in the Best PC Game category. In 2012, at the British Academy Video Games Awards, Minecraft was nominated in the GAME Award of 2011 category and Notch received The Special Award. In 2012, Minecraft XBLA was awarded a Golden Joystick Award in the Best Downloadable Game category, and a TIGA Games Industry Award in the Best Arcade Game category.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>In July 2010, PC Gamer listed Minecraft as the fourth-best game to play at work. In December of that year, Good Game selected Minecraft as their choice for Best Downloadable Game of 2010, Gamasutra named it the eighth best game of the year as well as the eighth best indie game of the year, and Rock, Paper, Shotgun named it the "game of the year". Indie DB awarded the game the 2010 Indie of the Year award as chosen by voters, in addition to two out of five Editor's Choice awards for Most Innovative and Best Singleplayer Indie. It was also awarded Game of the Year by PC Gamer UK. The game was nominated for the Seumas McNally Grand Prize, Technical Excellence, and Excellence in Design awards at the March 2011 Independent Games Festival and won the Grand Prize along with community-voted Audience Award. At Game Developers Choice Awards 2011, Minecraft won awards in the categories for Best Debut Game, Best Downloadable Game and Innovation Award, winning every award for which it was nominated. It has also won GameCity's videogame arts prize. On May 5, 2011, Minecraft was selected as one of the 80 games that would be displayed at the Smithsonian American Art Museum as part of The Art of Video Games exhibit that opened on March 16, 2012. At the 2011 Spike Video Game Awards, Minecraft won the award for Best Independent Game and was nominated in the Best PC Game category. In 2012, at the British Academy Video Games Awards, Minecraft was nominated in the GAME Award of 2011 category and Notch received The Special Award. In 2012, Minecraft XBLA was awarded a Golden Joystick Award in the Best Downloadable Game category, and a TIGA Games Industry Award in the Best Arcade Game category.</value>
+  </node>
+  <node>
+    <id>18e1137e-f224-4e0b-b2a4-c589010c7097</id>
+    <title>MineCon</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>MineCon is an official Minecraft convention. The first one was held on November 18–19, 2011, at Mandalay Bay Hotel and Casino in Las Vegas, Nevada. All 4,500 tickets for MineCon 2011 were sold out by October 31. The event included the official launch of Minecraft; keynote speeches, including one by Persson; building and costume contests; Minecraft-themed breakout classes; exhibits by leading gaming and Minecraft-related companies; commemorative merchandise; and autograph and picture times with Mojang employees and well-known contributors from the Minecraft community. After MineCon, there was an Into The Nether after-party with electronic musician deadmau5. Free codes were given to every attendee of MineCon that unlocked alpha versions of Mojang's other upcoming game, Scrolls, as well as an additional non-Mojang game, Cobalt, developed by Oxeye Game Studios. Similar events occurred in MineCon 2012, which took place in Disneyland Paris from November 24–25. The tickets for the 2012 event sold out in less than two hours. The 2013 MineCon was held in Orlando, Florida, in the United States, on November 2–3. The next MineCon will be held in fall 2015 in London, Great Britain.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>MineCon is an official Minecraft convention. The first one was held on November 18–19, 2011, at Mandalay Bay Hotel and Casino in Las Vegas, Nevada. All 4,500 tickets for MineCon 2011 were sold out by October 31. The event included the official launch of Minecraft; keynote speeches, including one by Persson; building and costume contests; Minecraft-themed breakout classes; exhibits by leading gaming and Minecraft-related companies; commemorative merchandise; and autograph and picture times with Mojang employees and well-known contributors from the Minecraft community. After MineCon, there was an Into The Nether after-party with electronic musician deadmau5. Free codes were given to every attendee of MineCon that unlocked alpha versions of Mojang's other upcoming game, Scrolls, as well as an additional non-Mojang game, Cobalt, developed by Oxeye Game Studios. Similar events occurred in MineCon 2012, which took place in Disneyland Paris from November 24–25. The tickets for the 2012 event sold out in less than two hours. The 2013 MineCon was held in Orlando, Florida, in the United States, on November 2–3. The next MineCon will be held in fall 2015 in London, Great Britain.</value>
+  </node>
+  <node>
+    <id>52aed23a-5e0a-43a7-82be-00d2efa67713</id>
+    <title>Merchandise</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>A Lego set based on Minecraft called Lego Minecraft was released on June 6, 2012. The set, called "Micro World", centers around the game's default player character and a Creeper. Mojang submitted the concept of Minecraft merchandise to Lego in December 2011 for the Lego Cuusoo program, from which it quickly received 10,000 votes by users, prompting Lego to review the concept. Lego Cuusoo approved the concept in January 2012 and began developing sets based around Minecraft. Two more sets based off the Nether and village areas of the game were released on September 1, 2013.
+Mojang collaborates with Jinx, an online game merchandise store, to sell Minecraft merchandise, such as clothing, foam pickaxes, and toys of creatures in the game. By May 2012, over 1 million dollars were made from Minecraft merchandise sales. T-shirts and socks were the most popular products. In March 2013 Mojang signed a deal with the children's book publisher The Egmont Group to create Minecraft handbooks, annuals, poster books, and magazines.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>A Lego set based on Minecraft called Lego Minecraft was released on June 6, 2012. The set, called "Micro World", centers around the game's default player character and a Creeper. Mojang submitted the concept of Minecraft merchandise to Lego in December 2011 for the Lego Cuusoo program, from which it quickly received 10,000 votes by users, prompting Lego to review the concept. Lego Cuusoo approved the concept in January 2012 and began developing sets based around Minecraft. Two more sets based off the Nether and village areas of the game were released on September 1, 2013.
+Mojang collaborates with Jinx, an online game merchandise store, to sell Minecraft merchandise, such as clothing, foam pickaxes, and toys of creatures in the game. By May 2012, over 1 million dollars were made from Minecraft merchandise sales. T-shirts and socks were the most popular products. In March 2013 Mojang signed a deal with the children's book publisher The Egmont Group to create Minecraft handbooks, annuals, poster books, and magazines.</value>
+  </node>
+  <node>
+    <id>7e220fad-e7b4-4bcb-8f5b-7adb235b141a</id>
+    <title>Popular culture and social media</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Social media sites such as YouTube, Facebook, and Reddit played a significant role in popularizing Minecraft. Research conducted by the University of Pennsylvania's Annenberg School of Communication showed that one-third of Minecraft players learned about the game via Internet videos. In 2010, Minecraft-related videos began to gain popularity on YouTube, often made by commentators. The videos usually contain screen-capture footage of the game and voice-overs. Common coverage in the videos includes creations made by players, walkthroughs of various tasks, and parodies of works in popular culture. By May 2012, over 4 million Minecraft-related YouTube videos were uploaded. Some popular commentators have received employment at Machinima, a gaming video company that owns a highly watched entertainment channel on YouTube. The Yogscast is a British organisation that regularly produces Minecraft videos; their YouTube channel has attained billions of views, and their panel at MineCon 2011 had the highest attendance. Other famous YouTube personnel include Jordan Maron, who has created many Minecraft parodies, including "Minecraft Style", a parody of the international hit single "Gangnam Style". Herobrine is a major community icon of Minecraft, who first appeared as a single image on 4chan's /v/ board. According to rumors, Herobrine appears in players' worlds and builds strange constructions. However, Mojang has confirmed that Herobrine has never existed in Minecraft, and there are no plans to add Herobrine.
+Minecraft has been referenced by other video games, such as RuneScape, Torchlight II, Borderlands 2, Choplifter HD, Super Meat Boy, The Elder Scrolls V: Skyrim, The Binding of Isaac, Team Fortress 2, and FTL: Faster Than Light. It was also referenced by musician deadmau5 in his performances. A simulation of the game was featured in Lady Gaga's G.U.Y. music video, along with the command "/gamemode ARTPOP". After the release of Minecraft, some video games were released with various similarities with Minecraft, and some have been called "clones" of the game. There have been a few Minecraft-like and Minecraft-inspired games across various gaming platforms since the game became popular. Examples include Ace of Spades, CastleMiner, CraftWorld, FortressCraft, Terraria, and Total Miner.
+In 2012, Mojang received offers from Hollywood producers who want to produce Minecraft-related TV shows; however, Mojang stated that they would engage in such projects when "the right idea comes along." A documentary about the development of Mojang and Minecraft was released in December 2012. Titled Minecraft: The Story of Mojang, the film was produced by 2 Player Productions. The second episode of the seventeenth season of the animated television series South Park titled "Informative Murder Porn", features the boys distracting their parents from fighting each other with Minecraft. In the South Park episode, gruff character Corey Lanskin explained the Minecraft game by noting, "You punch the trees to get the wood, you get the wood to build a cabin. … Minecraft, it don't got no winner. It don't got no objective. You just fuckin' build an' shit. And seein' if other things can come and knock it down." On 27 February 2014, Notch revealed that Mojang is in talks with Warner Bros. regarding a Minecraft film to be produced by Roy Lee and Jill Messick.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Social media sites such as YouTube, Facebook, and Reddit played a significant role in popularizing Minecraft. Research conducted by the University of Pennsylvania's Annenberg School of Communication showed that one-third of Minecraft players learned about the game via Internet videos. In 2010, Minecraft-related videos began to gain popularity on YouTube, often made by commentators. The videos usually contain screen-capture footage of the game and voice-overs. Common coverage in the videos includes creations made by players, walkthroughs of various tasks, and parodies of works in popular culture. By May 2012, over 4 million Minecraft-related YouTube videos were uploaded. Some popular commentators have received employment at Machinima, a gaming video company that owns a highly watched entertainment channel on YouTube. The Yogscast is a British organisation that regularly produces Minecraft videos; their YouTube channel has attained billions of views, and their panel at MineCon 2011 had the highest attendance. Other famous YouTube personnel include Jordan Maron, who has created many Minecraft parodies, including "Minecraft Style", a parody of the international hit single "Gangnam Style". Herobrine is a major community icon of Minecraft, who first appeared as a single image on 4chan's /v/ board. According to rumors, Herobrine appears in players' worlds and builds strange constructions. However, Mojang has confirmed that Herobrine has never existed in Minecraft, and there are no plans to add Herobrine.
+Minecraft has been referenced by other video games, such as RuneScape, Torchlight II, Borderlands 2, Choplifter HD, Super Meat Boy, The Elder Scrolls V: Skyrim, The Binding of Isaac, Team Fortress 2, and FTL: Faster Than Light. It was also referenced by musician deadmau5 in his performances. A simulation of the game was featured in Lady Gaga's G.U.Y. music video, along with the command "/gamemode ARTPOP". After the release of Minecraft, some video games were released with various similarities with Minecraft, and some have been called "clones" of the game. There have been a few Minecraft-like and Minecraft-inspired games across various gaming platforms since the game became popular. Examples include Ace of Spades, CastleMiner, CraftWorld, FortressCraft, Terraria, and Total Miner.
+In 2012, Mojang received offers from Hollywood producers who want to produce Minecraft-related TV shows; however, Mojang stated that they would engage in such projects when "the right idea comes along." A documentary about the development of Mojang and Minecraft was released in December 2012. Titled Minecraft: The Story of Mojang, the film was produced by 2 Player Productions. The second episode of the seventeenth season of the animated television series South Park titled "Informative Murder Porn", features the boys distracting their parents from fighting each other with Minecraft. In the South Park episode, gruff character Corey Lanskin explained the Minecraft game by noting, "You punch the trees to get the wood, you get the wood to build a cabin. … Minecraft, it don't got no winner. It don't got no objective. You just fuckin' build an' shit. And seein' if other things can come and knock it down." On 27 February 2014, Notch revealed that Mojang is in talks with Warner Bros. regarding a Minecraft film to be produced by Roy Lee and Jill Messick.</value>
+  </node>
+  <node>
+    <id>ab8aa9a3-9cdf-429b-a752-3e932acc1a40</id>
+    <title>Applications</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>The possible applications of Minecraft have been discussed extensively, especially in the fields of computer-aided design and education. In a panel at MineCon 2011, a Swedish developer discussed the possibility of using the game to redesign public buildings and parks, stating that rendering using Minecraft was much more user-friendly for the community, making it easier to envision the functionality of new buildings and parks. In 2012, a member of the Human Dynamics group at the MIT Media Lab, Cody Sumter, said that "Notch hasn't just built a game. He's tricked 40 million people into learning to use a CAD program." Various software has been developed to allow virtual designs to be printed using professional 3D printers or personal printers such as MakerBot and RepRap.
+In September 2012, Mojang began the Block By Block project in cooperation with UN Habitat to create real-world environments in Minecraft. The project allows young people who live in those environments to participate in designing the changes they would like to see. Using Minecraft, the community has helped reconstruct the areas of concern, and citizens are invited to enter the Minecraft servers and modify their own neighborhood. Carl Manneh, Mojang's managing director, called the game "the perfect tool to facilitate this process," adding that "the three-year partnership will support UN-Habitat's Sustainable Urban Development Network to upgrade 300 public spaces by 2016." Mojang signed Minecraft building community, FyreUK, to help render the environments into Minecraft. The first pilot project began in Kibera, one of Nairobi's informal settlements, and is in the planning phase. The Block By Block project is based on an earlier initiative started in October 2011, Mina Kvarter (My Block), which gave young people in Swedish communities a tool to visualize how they wanted to change their part of town. According to Manneh, the project was a helpful way to visualize urban planning ideas without necessarily having a training in architecture. The ideas presented by the citizens were a template for political decisions.
+In April 2014 The Danish Geodata Agency generated all of Denmark in a scale of 1:1 in Minecraft based on their own free geodata. This is possible because Denmark is one of the most flat countries with the highest point at 171 meters where the limit in default Minecraft is about 200 meters.
+Minecraft has also been used in educational settings. In 2011, an educational organization named MinecraftEdu was formed with the goal of introducing Minecraft into schools. The group works with Mojang to make the game affordable and accessible to schools. In September 2012, MinecraftEdu said that approximately 250,000 students around the world have access to Minecraft through the company. A wide variety of educational activities involving the game have been developed to teach students various subjects, including history, language arts and science. For an example, one teacher built a world consisting of various historical landmarks for students to learn and explore.
+In September 2014, the British Museum in London announced plans to recreate its building along with all exhibits in Minecraft in conjunction with members of the public.</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>The possible applications of Minecraft have been discussed extensively, especially in the fields of computer-aided design and education. In a panel at MineCon 2011, a Swedish developer discussed the possibility of using the game to redesign public buildings and parks, stating that rendering using Minecraft was much more user-friendly for the community, making it easier to envision the functionality of new buildings and parks. In 2012, a member of the Human Dynamics group at the MIT Media Lab, Cody Sumter, said that "Notch hasn't just built a game. He's tricked 40 million people into learning to use a CAD program." Various software has been developed to allow virtual designs to be printed using professional 3D printers or personal printers such as MakerBot and RepRap.
+In September 2012, Mojang began the Block By Block project in cooperation with UN Habitat to create real-world environments in Minecraft. The project allows young people who live in those environments to participate in designing the changes they would like to see. Using Minecraft, the community has helped reconstruct the areas of concern, and citizens are invited to enter the Minecraft servers and modify their own neighborhood. Carl Manneh, Mojang's managing director, called the game "the perfect tool to facilitate this process," adding that "the three-year partnership will support UN-Habitat's Sustainable Urban Development Network to upgrade 300 public spaces by 2016." Mojang signed Minecraft building community, FyreUK, to help render the environments into Minecraft. The first pilot project began in Kibera, one of Nairobi's informal settlements, and is in the planning phase. The Block By Block project is based on an earlier initiative started in October 2011, Mina Kvarter (My Block), which gave young people in Swedish communities a tool to visualize how they wanted to change their part of town. According to Manneh, the project was a helpful way to visualize urban planning ideas without necessarily having a training in architecture. The ideas presented by the citizens were a template for political decisions.
+In April 2014 The Danish Geodata Agency generated all of Denmark in a scale of 1:1 in Minecraft based on their own free geodata. This is possible because Denmark is one of the most flat countries with the highest point at 171 meters where the limit in default Minecraft is about 200 meters.
+Minecraft has also been used in educational settings. In 2011, an educational organization named MinecraftEdu was formed with the goal of introducing Minecraft into schools. The group works with Mojang to make the game affordable and accessible to schools. In September 2012, MinecraftEdu said that approximately 250,000 students around the world have access to Minecraft through the company. A wide variety of educational activities involving the game have been developed to teach students various subjects, including history, language arts and science. For an example, one teacher built a world consisting of various historical landmarks for students to learn and explore.
+In September 2014, the British Museum in London announced plans to recreate its building along with all exhibits in Minecraft in conjunction with members of the public.</value>
+  </node>
+  <node>
+    <id>bd191563-5ed5-40be-b7a6-fc20a1b92315</id>
+    <title>See also</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Lightweight Java Game Library, a Java library used by Minecraft
+Minicraft, a top-down video game also by Markus Persson</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Lightweight Java Game Library, a Java library used by Minecraft
+Minicraft, a top-down video game also by Markus Persson</value>
+  </node>
+  <node>
+    <id>5e19b1b3-8b86-4bf2-971e-91402915b3d9</id>
+    <title>Footnotes</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>Footnotes</value>
+  </node>
+  <node>
+    <id>916ac7de-a6be-4631-a6be-b504851a8b93</id>
+    <title>References</title>
+    <pic>
+    </pic>
+    <type>cn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(0.0, 0.0)</handlepos>
+    <preserve>False</preserve>
+    <value>References</value>
+  </node>
+  <node>
+    <id>c6881052-3137-474a-b8e7-766341189282</id>
+    <title>External links</title>
+    <pic>
+    </pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>Official website
+Minecraft Wiki
+Official Mojang Website
+Minecraft Realms</description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>Official website
+Minecraft Wiki
+Official Mojang Website
+Minecraft Realms</value>
+  </node>
+  <node>
+    <id>c504c2ac-be36-437d-9b65-da1e9c59f9be</id>
+    <title>Wiki Image</title>
+    <pic>http://upload.wikimedia.org/wikipedia/en/7/74/Minecraft_city_hall.png</pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>
+    </value>
+  </node>
+  <node>
+    <id>e7399cea-e45a-4bb3-bce5-6691f59bb914</id>
+    <title>Wiki Image</title>
+    <pic>http://upload.wikimedia.org/wikipedia/en/c/c9/Minecraft_Mobs.png</pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>
+    </value>
+  </node>
+  <node>
+    <id>a33580dd-82c1-4111-ba45-88885118143e</id>
+    <title>Wiki Image</title>
+    <pic>http://upload.wikimedia.org/wikipedia/en/c/c3/Minecraft_Volume_Alpha.jpg</pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>
+    </value>
+  </node>
+  <node>
+    <id>662b4ef3-bb03-4f64-b904-cba0e28930b7</id>
+    <title>Wiki Image</title>
+    <pic>http://upload.wikimedia.org/wikipedia/en/9/9d/Minecraft_Volume_Beta.jpg</pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>
+    </value>
+  </node>
+  <node>
+    <id>3f913d73-9607-48af-ba9e-d0d4632dfada</id>
+    <title>Wiki Image</title>
+    <pic>http://upload.wikimedia.org/wikipedia/en/e/eb/Minecraft_Beta_1.0.2_crafting_a_stone_axe_-_from_Commons.png</pic>
+    <type>rn</type>
+    <state>open</state>
+    <attributes>attr1,,,,,,</attributes>
+    <shownattributes>False,False,False,False,False,False,False</shownattributes>
+    <description>
+    </description>
+    <children>
+    </children>
+    <color>0:0:0:1</color>
+    <handlepos>(2.8, -3.7)</handlepos>
+    <preserve>False</preserve>
+    <value>
+    </value>
+  </node>
+</nodes>
